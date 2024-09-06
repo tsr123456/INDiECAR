@@ -1,0 +1,228 @@
+Runname: UK_Breedon Group PLC
+UK_Breedon Group PLC
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: UK_CEMEX SAB de CV
+UK_CEMEX SAB de CV
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: UK_CRH PLC
+UK_CRH PLC
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: UK_HeidelbergCement AG
+UK_HeidelbergCement AG
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: UK_LafargeHolcim Ltd
+UK_LafargeHolcim Ltd
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: UK_Mannok Build Ltd
+UK_Mannok Build Ltd
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+sending incremental file list
+./
+"solver_log_UK_Breedon Group PLC_Technology5.log"
+"solver_log_UK_CEMEX SAB de CV_Technology4.log"
+"solver_log_UK_CRH PLC_Technology89.log"
+"solver_log_UK_HeidelbergCement AG_Technology78.log"
+"solver_log_UK_LafargeHolcim Ltd_Technology5.log"
+"solver_log_UK_Mannok Build Ltd_Technology17.log"
+parse_table_datacmds.py
+solver_log_UK_Breedon Group PLC_Technology5.log
+solver_log_UK_CEMEX SAB de CV_Technology4.log
+solver_log_UK_CRH PLC_Technology89.log
+solver_log_UK_HeidelbergCement AG_Technology78.log
+solver_log_UK_LafargeHolcim Ltd_Technology5.log
+solver_log_UK_Mannok Build Ltd_Technology17.log
+Casestudies/UK_Breedon Group PLC/Technology/
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/import_rate.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_process.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/num_strg.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_Breedon Group PLC/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_Breedon Group PLC/input/Gridded_Demand.csv
+Casestudies/UK_Breedon Group PLC/input/Gridded_Linear_Distances.csv
+Casestudies/UK_Breedon Group PLC/input/Gridded_ResourceRates.csv
+Casestudies/UK_Breedon Group PLC/input/INV_COEFF.csv
+Casestudies/UK_Breedon Group PLC/input/MIN_CAP.csv
+Casestudies/UK_Breedon Group PLC/input/NAME_PLATE_CAP.csv
+Casestudies/UK_Breedon Group PLC/input/PROCESS_COEFF.csv
+Casestudies/UK_Breedon Group PLC/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_Breedon Group PLC/input/TRANSPORT_COEFF.csv
+Casestudies/UK_Breedon Group PLC/input/existing_pipelines.csv
+Casestudies/UK_Breedon Group PLC/input/existing_storage.csv
+Casestudies/UK_Breedon Group PLC/input/existing_tech.csv
+Casestudies/UK_Breedon Group PLC/input/grid_cells.csv
+Casestudies/UK_Breedon Group PLC/input/initial_pipelines.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/import_rate.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_process.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/num_strg.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_CEMEX SAB de CV/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_CEMEX SAB de CV/input/Gridded_Demand.csv
+Casestudies/UK_CEMEX SAB de CV/input/Gridded_Linear_Distances.csv
+Casestudies/UK_CEMEX SAB de CV/input/Gridded_ResourceRates.csv
+Casestudies/UK_CEMEX SAB de CV/input/INV_COEFF.csv
+Casestudies/UK_CEMEX SAB de CV/input/MIN_CAP.csv
+Casestudies/UK_CEMEX SAB de CV/input/NAME_PLATE_CAP.csv
+Casestudies/UK_CEMEX SAB de CV/input/PROCESS_COEFF.csv
+Casestudies/UK_CEMEX SAB de CV/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_CEMEX SAB de CV/input/TRANSPORT_COEFF.csv
+Casestudies/UK_CEMEX SAB de CV/input/existing_pipelines.csv
+Casestudies/UK_CEMEX SAB de CV/input/existing_storage.csv
+Casestudies/UK_CEMEX SAB de CV/input/existing_tech.csv
+Casestudies/UK_CEMEX SAB de CV/input/grid_cells.csv
+Casestudies/UK_CEMEX SAB de CV/input/initial_pipelines.csv
+Casestudies/UK_CRH PLC/Technology/
+Casestudies/UK_CRH PLC/Technology/snapshot100/
+Casestudies/UK_CRH PLC/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/import_rate.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_process.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/num_strg.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_CRH PLC/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_CRH PLC/input/Gridded_Demand.csv
+Casestudies/UK_CRH PLC/input/Gridded_Linear_Distances.csv
+Casestudies/UK_CRH PLC/input/Gridded_ResourceRates.csv
+Casestudies/UK_CRH PLC/input/INV_COEFF.csv
+Casestudies/UK_CRH PLC/input/MIN_CAP.csv
+Casestudies/UK_CRH PLC/input/NAME_PLATE_CAP.csv
+Casestudies/UK_CRH PLC/input/PROCESS_COEFF.csv
+Casestudies/UK_CRH PLC/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_CRH PLC/input/TRANSPORT_COEFF.csv
+Casestudies/UK_CRH PLC/input/existing_pipelines.csv
+Casestudies/UK_CRH PLC/input/existing_storage.csv
+Casestudies/UK_CRH PLC/input/existing_tech.csv
+Casestudies/UK_CRH PLC/input/grid_cells.csv
+Casestudies/UK_CRH PLC/input/initial_pipelines.csv
+Casestudies/UK_HeidelbergCement AG/Technology/
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/import_rate.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_process.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/num_strg.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_HeidelbergCement AG/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_HeidelbergCement AG/input/Gridded_Demand.csv
+Casestudies/UK_HeidelbergCement AG/input/Gridded_Linear_Distances.csv
+Casestudies/UK_HeidelbergCement AG/input/Gridded_ResourceRates.csv
+Casestudies/UK_HeidelbergCement AG/input/INV_COEFF.csv
+Casestudies/UK_HeidelbergCement AG/input/MIN_CAP.csv
+Casestudies/UK_HeidelbergCement AG/input/NAME_PLATE_CAP.csv
+Casestudies/UK_HeidelbergCement AG/input/PROCESS_COEFF.csv
+Casestudies/UK_HeidelbergCement AG/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_HeidelbergCement AG/input/TRANSPORT_COEFF.csv
+Casestudies/UK_HeidelbergCement AG/input/existing_pipelines.csv
+Casestudies/UK_HeidelbergCement AG/input/existing_storage.csv
+Casestudies/UK_HeidelbergCement AG/input/existing_tech.csv
+Casestudies/UK_HeidelbergCement AG/input/grid_cells.csv
+Casestudies/UK_HeidelbergCement AG/input/initial_pipelines.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/import_rate.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_process.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/num_strg.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_LafargeHolcim Ltd/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_LafargeHolcim Ltd/input/Gridded_Demand.csv
+Casestudies/UK_LafargeHolcim Ltd/input/Gridded_Linear_Distances.csv
+Casestudies/UK_LafargeHolcim Ltd/input/Gridded_ResourceRates.csv
+Casestudies/UK_LafargeHolcim Ltd/input/INV_COEFF.csv
+Casestudies/UK_LafargeHolcim Ltd/input/MIN_CAP.csv
+Casestudies/UK_LafargeHolcim Ltd/input/NAME_PLATE_CAP.csv
+Casestudies/UK_LafargeHolcim Ltd/input/PROCESS_COEFF.csv
+Casestudies/UK_LafargeHolcim Ltd/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_LafargeHolcim Ltd/input/TRANSPORT_COEFF.csv
+Casestudies/UK_LafargeHolcim Ltd/input/existing_pipelines.csv
+Casestudies/UK_LafargeHolcim Ltd/input/existing_storage.csv
+Casestudies/UK_LafargeHolcim Ltd/input/existing_tech.csv
+Casestudies/UK_LafargeHolcim Ltd/input/grid_cells.csv
+Casestudies/UK_LafargeHolcim Ltd/input/initial_pipelines.csv
+Casestudies/UK_Mannok Build Ltd/Technology/
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/Simulation_summary.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/emission_rate.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/flow_rate.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/import_rate.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_end_use.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_pipes.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_process.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_process_invest.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/num_strg.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/prod_rate.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/total_metrics.csv
+Casestudies/UK_Mannok Build Ltd/Technology/snapshot100/transport_rate.csv
+Casestudies/UK_Mannok Build Ltd/input/Gridded_Demand.csv
+Casestudies/UK_Mannok Build Ltd/input/Gridded_Linear_Distances.csv
+Casestudies/UK_Mannok Build Ltd/input/Gridded_ResourceRates.csv
+Casestudies/UK_Mannok Build Ltd/input/INV_COEFF.csv
+Casestudies/UK_Mannok Build Ltd/input/MIN_CAP.csv
+Casestudies/UK_Mannok Build Ltd/input/NAME_PLATE_CAP.csv
+Casestudies/UK_Mannok Build Ltd/input/PROCESS_COEFF.csv
+Casestudies/UK_Mannok Build Ltd/input/RESOURCE_CONV_RATE.csv
+Casestudies/UK_Mannok Build Ltd/input/TRANSPORT_COEFF.csv
+Casestudies/UK_Mannok Build Ltd/input/existing_pipelines.csv
+Casestudies/UK_Mannok Build Ltd/input/existing_storage.csv
+Casestudies/UK_Mannok Build Ltd/input/existing_tech.csv
+Casestudies/UK_Mannok Build Ltd/input/grid_cells.csv
+Casestudies/UK_Mannok Build Ltd/input/initial_pipelines.csv
+
+sent 441030 bytes  received 3960 bytes  177996.00 bytes/sec
+total size is 152312645  speedup is 342.28

@@ -1,0 +1,43 @@
+Runname: SP_PT_CEMEX SAB de CV
+SP_PT_CEMEX SAB de CV
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+sending incremental file list
+./
+"solver_log_SP_PT_CEMEX SAB de CV_Technology93.log"
+parse_table_datacmds.py
+solver_log_SP_PT_CEMEX SAB de CV_Technology93.log
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_Demand.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/INV_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/MIN_CAP.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_pipelines.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_storage.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_tech.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/grid_cells.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/grid_cells_all_cment_plants.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/initial_pipelines.csv
+
+sent 133760 bytes  received 1151 bytes  89940.67 bytes/sec
+total size is 153982070  speedup is 1141.36

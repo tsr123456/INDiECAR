@@ -1,0 +1,92 @@
+Solver command line: ['/home/ffm2000/opt/cplex/cplex/bin/x86-64_linux/cplex']
+
+
+Welcome to IBM(R) ILOG(R) CPLEX(R) Interactive Optimizer 22.1.1.0
+  with Simplex, Mixed Integer & Barrier Optimizers
+5725-A06 5725-A29 5724-Y48 5724-Y49 5724-Y54 5724-Y55 5655-Y21
+Copyright IBM Corp. 1988, 2022.  All Rights Reserved.
+
+Type 'help' for a list of available commands.
+Type 'help' followed by a command name for more
+information on commands.
+
+CPLEX> Logfile 'cplex.log' closed.
+Logfile 'solver_log_UK_Technology84.log' open.
+CPLEX> New value for mixed integer optimality gap tolerance: 0.0002
+CPLEX> New value for time limit in seconds: 28000
+CPLEX> New value for integrality tolerance: 0
+CPLEX> New value for feasibility tolerance: 1e-08
+CPLEX> Problem '/tmp/221902.1.RCCS/tmptl1uh3dd.pyomo.lp' read.
+Read time = 0.42 sec. (33.57 ticks)
+CPLEX> Problem name         : /tmp/221902.1.RCCS/tmptl1uh3dd.pyomo.lp
+Objective sense      : Minimize
+Variables            :  180315  [Nneg: 1,  Box: 180192,  Binary: 84,
+                                 General Integer: 38]
+Objective nonzeros   :       2
+Linear constraints   :  404014  [Less: 200071,  Greater: 18540,  Equal: 185403]
+  Nonzeros           :  665257
+  RHS nonzeros       :   18552
+
+Variables            : Min LB: 0.000000         Max UB: 1.000000e+10   
+Objective nonzeros   : Min   : 0.1187400        Max   : 1.000000       
+Linear constraints   :
+  Nonzeros           : Min   : 0.02000000       Max   : 505146.4       
+  RHS nonzeros       : Min   : 1.000000         Max   : 8.710684e+08   
+CPLEX> Version identifier: 22.1.1.0 | 2022-11-28 | 9160aff4d
+CPXPARAM_Simplex_Tolerances_Feasibility          1e-08
+CPXPARAM_TimeLimit                               28000
+CPXPARAM_MIP_Tolerances_MIPGap                   0.00020000000000000001
+CPXPARAM_MIP_Tolerances_Integrality              0
+Tried aggregator 4 times.
+MIP Presolve eliminated 403833 rows and 180117 columns.
+MIP Presolve modified 96 coefficients.
+Aggregator did 153 substitutions.
+Reduced MIP has 28 rows, 45 columns, and 159 nonzeros.
+Reduced MIP has 35 binaries, 2 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.28 sec. (359.47 ticks)
+Found incumbent of value 1606295.820337 after 0.30 sec. (382.55 ticks)
+Probing fixed 2 vars, tightened 7 bounds.
+Probing time = 0.00 sec. (0.06 ticks)
+Tried aggregator 1 time.
+Detecting symmetries...
+MIP Presolve eliminated 2 rows and 2 columns.
+Reduced MIP has 26 rows, 43 columns, and 153 nonzeros.
+Reduced MIP has 33 binaries, 2 generals, 0 SOSs, and 0 indicators.
+Presolve time = 0.00 sec. (0.11 ticks)
+Probing fixed 0 vars, tightened 1 bounds.
+Probing time = 0.00 sec. (0.04 ticks)
+Clique table members: 42.
+MIP emphasis: balance optimality and feasibility.
+MIP search method: dynamic search.
+Parallel mode: deterministic, using up to 32 threads.
+Root relaxation solution time = 0.00 sec. (0.08 ticks)
+
+        Nodes                                         Cuts/
+   Node  Left     Objective  IInf  Best Integer    Best Bound    ItCnt     Gap
+
+*     0+    0                      1606295.8203    26633.5580            98.34%
+      0     0   698872.0828     7  1606295.8203   698872.0828       24   56.49%
+*     0+    0                       707073.1272   698872.0828             1.16%
+      0     0        cutoff         707073.1272                     26    0.00%
+Elapsed time = 0.48 sec. (407.21 ticks, tree = 0.01 MB, solutions = 2)
+
+Mixed integer rounding cuts applied:  2
+Gomory fractional cuts applied:  1
+
+Root node processing (before b&c):
+  Real time             =    0.49 sec. (413.23 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.49 sec. (413.23 ticks)
+
+Solution pool: 2 solutions saved.
+
+MIP - Integer optimal solution:  Objective =  7.0707312717e+05
+Solution time =    0.50 sec.  Iterations = 26  Nodes = 0
+Deterministic time = 413.75 ticks  (833.01 ticks/sec)
+
+CPLEX> Incumbent solution written to file '/tmp/221902.1.RCCS/tmppavg5kqs.cplex.sol'.
+CPLEX> 

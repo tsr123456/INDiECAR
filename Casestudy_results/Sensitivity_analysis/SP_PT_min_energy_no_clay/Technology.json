@@ -1,0 +1,20 @@
+{
+    "instantiate": {
+        "install_CC": 0,
+        "CCS_network_only": 0,
+        "obj": "TLC"
+    },
+    "stateGates": {
+        "backcasting": 1,
+        "targets": [
+            50,
+            100
+        ]
+    },
+    "solver": {
+        "name": "cplex",
+        "mipgap": 0.0002,
+        "tlimit": 28000,
+        "integralityTolerance": 0
+    }
+}

@@ -1,0 +1,4 @@
+process_tech;grid;Major Time;Scenario;number
+SMALL_CO2_COMPRESSOR;2;1;LL;1.0
+INCUMBENT_CEMENT;1;1;LL;1.0
+CCS_CALCINED_CLAY_CEMENT;1;1;LL;1.0

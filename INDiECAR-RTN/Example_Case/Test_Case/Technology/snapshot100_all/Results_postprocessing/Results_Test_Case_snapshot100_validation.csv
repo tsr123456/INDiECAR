@@ -1,0 +1,13 @@
+index;OID;Longitude;Latitude;route_CO2;PIP_IDs;dist_km;process_tech;grid;Major Time;Scenario;number;capacity;CAPEX_tech;OPEX_fixed_tech;OPEX_var_tech;LCOP_tech;CO2_stored;CO2_emitted;CO2_generated;CO2_avoided;Decarb_rate;LCOP_transport_strg;LCOP_total;LCOP_nets;CO2_offset;LCOP_CO2_avoided;LCOP_total_w_nets;LCOP_CO2_avoided_w_NETs;Cummulative_CO2_avoided;Cummulative_CO2_avoided_w_nets;Width_CO2_avoided_w_nets;xticks
+0;CID53;-1.751755;53.337916;LINESTRING (-1.751754988790997 53.33791600637368, 0.04476576846244464 53.68945314583021, 1.27076724796168 54.01255983544606);['PIPEID0', 'PIPEID1'];216.172369;CCS_BIOMASS_MINERAL_CEMENT;1;1;LL;1;552750;33089674.25;1981218.934;28738745.5;61.53387358;295997.625;15344.70613;472605.672;457260.9659;0.967531693;28.76678875;90.30066233;3.727392795;15344.70613;109.1579969;94.02805512;113.6637748;0.72564877;0.75;0.75;0.375
+1;CID54;-3.392125;51.397546;;;;BIOMASS_CEMENT;2;1;LL;1;184250;0;0;6924113.072;37.57998954;0;102897.5431;157535.224;54637.68085;0.346828344;0;37.57998954;74.98473238;102897.5431;126.7277997;112.5647219;379.5924294;0.812355856;1;0.25;0.875
+;;;;;;;Description;€;M€;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX tech;33089674.2;33.1;;Import sheet;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX NET;68867103.28;68.9;;t/hh;t/a;Difference;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX COMP;;0.9;;63.09931507;1105500;50.00%;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX Inj.;;74.6;;21.03310502;368500;50.00%;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX  Network;;109.8;with 2x NET, COMP, tech;;;;;;;;;;;;;;;;;;;;;;
+;;;Conversion rate;1.13;;;CAPEX total;;287.2;390.012;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;In IDRIC;kGBP;M€;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;CAPEX;352960.0707;398.8448799;;;;;;;;;;;;;;;;;;;;;;;

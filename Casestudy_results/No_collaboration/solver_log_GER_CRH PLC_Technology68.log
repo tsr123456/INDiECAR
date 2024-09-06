@@ -1,0 +1,51 @@
+
+Log started (V22.1.1.0) Wed Apr 10 16:12:07 2024
+
+New value for mixed integer optimality gap tolerance: 0.0002
+New value for time limit in seconds: 14400
+New value for integrality tolerance: 0
+New value for feasibility tolerance: 1e-08
+
+Problem '/tmp/224231.1.RCCS/tmpkze23_f1.pyomo.lp' read.
+Read time = 0.05 sec. (4.09 ticks)
+
+Problem name         : /tmp/224231.1.RCCS/tmpkze23_f1.pyomo.lp
+Objective sense      : Minimize
+Variables            :   23694  [Nneg: 1,  Box: 22663,  Binary: 46,
+                                 General Integer: 984]
+Objective nonzeros   :       2
+Linear constraints   :   51371  [Less: 25018,  Greater: 2728,  Equal: 23625]
+  Nonzeros           :   86761
+  RHS nonzeros       :    2730
+
+Variables            : Min LB: 0.000000         Max UB: 1.000000e+10   
+Objective nonzeros   : Min   : 0.1187400        Max   : 1.000000       
+Linear constraints   :
+  Nonzeros           : Min   : 0.02000000       Max   : 1084852.       
+  RHS nonzeros       : Min   : 1.000000         Max   : 2.166667e+07   
+Version identifier: 22.1.1.0 | 2022-11-28 | 9160aff4d
+CPXPARAM_Simplex_Tolerances_Feasibility          1e-08
+CPXPARAM_TimeLimit                               14400
+CPXPARAM_MIP_Tolerances_MIPGap                   0.00020000000000000001
+CPXPARAM_MIP_Tolerances_Integrality              0
+Infeasibility row 'c_e_x71508_':  0  = 1.
+Presolve time = 0.00 sec. (4.39 ticks)
+
+Root node processing (before b&c):
+  Real time             =    0.01 sec. (7.15 ticks)
+Parallel b&c, 32 threads:
+  Real time             =    0.00 sec. (0.00 ticks)
+  Sync time (average)   =    0.00 sec.
+  Wait time (average)   =    0.00 sec.
+                          ------------
+Total (root+branch&cut) =    0.01 sec. (7.15 ticks)
+
+
+MIP - Integer infeasible.
+Current MIP best bound =  0.0000000000e+00 (gap is infinite)
+Solution time =    0.01 sec.  Iterations = 0  Nodes = 0 (1)
+Deterministic time = 7.22 ticks  (755.90 ticks/sec)
+
+
+CPLEX Error  1217: No solution exists.
+No file written.

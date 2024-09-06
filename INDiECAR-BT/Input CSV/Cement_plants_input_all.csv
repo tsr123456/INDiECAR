@@ -1,0 +1,109 @@
+﻿Country;VID;Country_code;Region;Sub_region;Latitude;Longitude;Capacity;capacity t/hh;Type;
+Germany;CID1;276;Europe;Western Europe;51.364109;10.481936;2.61;148.9726027;Integrated;2.61
+Germany;CID2;276;Europe;Western Europe;51.62267;8.503183;;74.20091324;Integrated;
+Germany;CID3;276;Europe;Western Europe;49.602402;8.036802;;74.20091324;Integrated;
+Germany;CID4;276;Europe;Western Europe;52.17459;7.887637;1.41;80.47945205;Integrated;1.41
+Germany;CID5;276;Europe;Western Europe;50.032201;8.258075;2.43;138.6986301;Integrated;2.43
+Germany;CID6;276;Europe;Western Europe;51.215198;6.702557;;74.20091324;Grinding;
+Germany;CID7;276;Europe;Western Europe;50.417212;7.473855;;74.20091324;Grinding;
+Germany;CID8;276;Europe;Western Europe;51.599704;8.349549;;74.20091324;;
+Germany;CID9;276;Europe;Western Europe;51.599521;8.335833;;74.20091324;Integrated;
+Germany;CID10;276;Europe;Western Europe;51.270124;11.660638;2.3;131.2785388;Integrated;2.3
+Germany;CID11;276;Europe;Western Europe;49.016926;8.614774;;74.20091324;Integrated;
+Germany;CID12;276;Europe;Western Europe;50.520752;6.560266;0.45;25.68493151;Grinding;0.45
+Germany;CID13;276;Europe;Western Europe;52.489222;13.836808;1.79;102.1689498;Integrated;1.79
+Germany;CID14;276;Europe;Western Europe;52.1576;14.650765;;74.20091324;Grinding;
+Germany;CID15;276;Europe;Western Europe;48.07753;7.704708;;74.20091324;Grinding;
+Germany;CID16;276;Europe;Western Europe;49.213555;12.029824;;74.20091324;Integrated;
+Germany;CID17;276;Europe;Western Europe;51.857225;8.03084;;74.20091324;Integrated;
+Germany;CID18;276;Europe;Western Europe;52.374756;9.876779;0.9;51.36986301;Integrated;0.9
+Germany;CID19;276;Europe;Western Europe;49.357624;8.685598;;74.20091324;Integrated;
+Germany;CID20;276;Europe;Western Europe;51.698479;8.746013;;74.20091324;Integrated;
+Germany;CID21;276;Europe;Western Europe;48.368982;9.735574;1.9;108.4474886;Integrated;1.9
+Germany;CID22;276;Europe;Western Europe;49.808084;9.618221;;74.20091324;Integrated;
+Germany;CID23;276;Europe;Western Europe;51.618256;8.5105;;74.20091324;Integrated;
+Germany;CID24;276;Europe;Western Europe;52.305;13.63851;;74.20091324;Grinding;
+Germany;CID25;276;Europe;Western Europe;49.974307;8.316073;;74.20091324;Grinding;
+Germany;CID26;276;Europe;Western Europe;51.595161;8.336089;1.21;69.06392694;Integrated;1.21
+Germany;CID27;276;Europe;Western Europe;48.227348;8.7786;1.6;91.32420091;Integrated;1.6
+Germany;CID28;276;Europe;Western Europe;53.875099;9.584787;1.29;73.63013699;Integrated;1.29
+Germany;CID29;276;Europe;Western Europe;52.353363;9.888384;;74.20091324;Integrated;
+Germany;CID30;276;Europe;Western Europe;51.765425;8.055751;;74.20091324;Integrated;
+Germany;CID31;276;Europe;Western Europe;53.138469;8.711021;;74.20091324;Grinding;
+Germany;CID32;276;Europe;Western Europe;51.547365;7.506201;;74.20091324;Grinding;
+Germany;CID33;276;Europe;Western Europe;51.512061;6.728638;;74.20091324;Grinding;
+Germany;CID34;276;Europe;Western Europe;54.144146;12.104727;;74.20091324;Grinding;
+Germany;CID35;276;Europe;Western Europe;48.774206;10.698973;;74.20091324;Integrated;
+Germany;CID36;276;Europe;Western Europe;49.077417;9.162092;;74.20091324;Grinding;
+Germany;CID37;276;Europe;Western Europe;51.759234;8.073849;;74.20091324;Integrated;
+Germany;CID38;276;Europe;Western Europe;50.334928;6.765204;;74.20091324;;
+Germany;CID39;276;Europe;Western Europe;47.791873;12.181552;0.97;55.3652968;Integrated;0.97
+Germany;CID40;276;Europe;Western Europe;51.813271;11.753223;2.26;128.9954338;Integrated;2.26
+Germany;CID41;276;Europe;Western Europe;48.333264;9.732415;2.29;130.7077626;Integrated;2.29
+Germany;CID42;276;Europe;Western Europe;48.652954;10.162965;1.28;73.05936073;Integrated;1.28
+Germany;CID43;276;Europe;Western Europe;49.954669;9.768927;1.31;74.7716895;Integrated;1.31
+Germany;CID44;276;Europe;Western Europe;49.500143;11.553871;;74.20091324;Grinding;
+Germany;CID45;276;Europe;Western Europe;48.884764;10.998115;;74.20091324;Integrated;
+Germany;CID46;276;Europe;Western Europe;51.602063;8.336864;;74.20091324;Integrated;
+Germany;CID47;276;Europe;Western Europe;51.35858;6.710362;;74.20091324;Grinding;
+Germany;CID48;276;Europe;Western Europe;52.487446;13.495733;;74.20091324;Grinding;
+Germany;CID49;276;Europe;Western Europe;50.584533;9.510138;;74.20091324;;
+Germany;CID50;276;Europe;Western Europe;53.899492;10.809747;;74.20091324;Grinding;
+Germany;CID51;276;Europe;Western Europe;51.014295;11.684831;;74.20091324;Grinding;
+Germany;CID52;276;Europe;Western Europe;49.425386;8.515097;;74.20091324;Grinding;
+United Kingdom;CID53;826;Europe;Northern Europe;53.337916;-1.751755;1.5;85.61643836;Integrated;
+United Kingdom;CID54;826;Europe;Northern Europe;51.397546;-3.392125;0.5;28.53881279;Integrated;
+United Kingdom;CID55;826;Europe;Northern Europe;53.265267;-1.851891;1;57.07762557;Integrated;
+United Kingdom;CID56;826;Europe;Northern Europe;55.979125;-2.47192;1;57.07762557;Integrated;
+United Kingdom;CID57;826;Europe;Northern Europe;52.907516;-0.905543;;74.20091324;Grinding;
+United Kingdom;CID58;826;Europe;Northern Europe;53.675822;-0.529654;0.7;39.9543379;Integrated;
+United Kingdom;CID59;826;Europe;Northern Europe;52.377293;-1.286254;1.8;102.739726;Integrated;
+United Kingdom;CID60;826;Europe;Northern Europe;51.457535;0.351728;;74.20091324;Grinding;
+United Kingdom;CID61;826;Europe;Northern Europe;53.888913;-2.383373;1.3;74.20091324;Integrated;
+United Kingdom;CID62;826;Europe;Northern Europe;53.152678;-3.061635;0.91;51.94063927;Integrated;
+United Kingdom;CID63;826;Europe;Northern Europe;52.640356;-0.547016;2.16;123.2876712;Integrated;
+United Kingdom;CID64;826;Europe;Northern Europe;54.59506;-1.169809;;74.20091324;Grinding;
+United Kingdom;CID65;826;Europe;Northern Europe;51.471516;0.261598;;74.20091324;Grinding;
+United Kingdom;CID66;826;Europe;Northern Europe;51.584677;-3.787058;;74.20091324;Grinding;
+United Kingdom;CID67;826;Europe;Northern Europe;54.618105;-6.767677;0.48;27.39726027;Integrated;
+United Kingdom;CID68;826;Europe;Northern Europe;53.044003;-1.875169;0.96;54.79452055;Integrated;
+United Kingdom;CID69;826;Europe;Northern Europe;53.571377;-0.6155;;74.20091324;Grinding;
+United Kingdom;CID70;826;Europe;Northern Europe;54.143487;-7.572383;1.17;66.78082192;Integrated;
+Ireland;CID71;372;Europe;Northern Europe;53.432118;-7.143371;0.7;39.9543379;Integrated;
+Ireland;CID72;372;Europe;Northern Europe;52.641364;-8.688373;0.8;45.66210046;Integrated;
+Ireland;CID73;372;Europe;Northern Europe;53.684307;-6.387712;2.8;159.8173516;Integrated;
+Ireland;CID74;372;Europe;Northern Europe;54.130891;-7.578912;1.13;64.49771689;Integrated;
+Spain;CID75;724;Europe;Southern Europe;38.3792;-6.483272;;74.20091324;Integrated;
+Spain;CID76;724;Europe;Southern Europe;43.206524;-2.773979;0.83;47.37442922;Integrated;
+Spain;CID77;724;Europe;Southern Europe;42.874825;-4.15978;2.9;165.5251142;Integrated;
+Spain;CID78;724;Europe;Southern Europe;40.244961;-3.474441;1.055;60.21689498;Integrated;
+Spain;CID79;724;Europe;Southern Europe;42.882983;-2.190187;0.815;46.51826484;Integrated;
+Spain;CID80;724;Europe;Southern Europe;41.941676;-4.46587;1.45;82.76255708;Integrated;
+Spain;CID81;724;Europe;Southern Europe;37.359736;-5.865094;1.87;106.7351598;Integrated;
+Spain;CID82;724;Europe;Southern Europe;39.436556;-0.77638;;74.20091324;Integrated;
+Spain;CID83;724;Europe;Southern Europe;41.475476;-1.486787;1.68;95.89041096;Integrated;
+Spain;CID84;724;Europe;Southern Europe;38.378014;-0.542867;1.53;87.32876712;Integrated;
+Spain;CID85;724;Europe;Southern Europe;40.576824;0.54329;2.87;163.8127854;Integrated;
+Spain;CID86;724;Europe;Southern Europe;39.934332;-3.74396;0.936;53.42465753;Integrated;
+Spain;CID87;724;Europe;Southern Europe;43.560582;-5.722483;1.43;81.62100457;Integrated;
+Spain;CID88;724;Europe;Southern Europe;42.798654;-5.619632;1.87;106.7351598;Integrated;
+Spain;CID89;724;Europe;Southern Europe;43.33011;-5.775146;;74.20091324;Integrated;
+Spain;CID90;724;Europe;Southern Europe;43.204824;-2.899342;;74.20091324;Integrated;
+Spain;CID91;724;Europe;Southern Europe;36.714681;-4.329333;;74.20091324;Integrated;
+Spain;CID92;724;Europe;Southern Europe;43.285684;-1.997062;2.87;163.8127854;Integrated;
+Spain;CID93;724;Europe;Southern Europe;36.966885;-1.904785;1.39;79.33789954;Integrated;
+Spain;CID94;724;Europe;Southern Europe;36.618249;-6.073448;2.92;166.6666667;Integrated;
+Spain;CID95;724;Europe;Southern Europe;40.009935;-3.901136;;74.20091324;Integrated;
+Spain;CID96;724;Europe;Southern Europe;41.474698;2.183652;2.31;131.8493151;Integrated;
+Spain;CID97;724;Europe;Southern Europe;39.663613;-0.246962;0.88;50.2283105;Integrated;
+Spain;CID98;724;Europe;Southern Europe;37.902032;-4.764202;0.98;55.93607306;Integrated;
+Spain;CID99;724;Europe;Southern Europe;37.359766;-6.672312;;74.20091324;Integrated;
+Spain;CID100;724;Europe;Southern Europe;42.717483;-7.450123;1.37;78.19634703;Integrated;
+Spain;CID101;724;Europe;Southern Europe;42.553519;-6.768733;0.97;55.3652968;Integrated;
+Spain;CID102;724;Europe;Southern Europe;41.402821;2.054826;;74.20091324;Integrated;
+Portugal;CID103;620;Europe;Southern Europe;38.922169;-9.009904;1.18;67.35159817;Integrated;
+Portugal;CID104;620;Europe;Southern Europe;37.135933;-8.100041;;74.20091324;Integrated;
+Portugal;CID105;620;Europe;Southern Europe;40.289074;-8.418212;1.5;85.61643836;Integrated;
+Portugal;CID106;620;Europe;Southern Europe;39.685773;-8.905132;0.62;35.38812785;Integrated;
+Portugal;CID107;620;Europe;Southern Europe;39.655677;-8.987387;2;114.1552511;Integrated;
+Portugal;CID108;620;Europe;Southern Europe;38.501466;-8.935936;;74.20091324;Integrated;

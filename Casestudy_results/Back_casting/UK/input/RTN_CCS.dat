@@ -1,0 +1,449 @@
+# AMPL DATA FORMAT
+
+################### Sets ####################
+
+# ---- MINOR TIME set: T ----------------------------------------------------
+
+set T := 1;
+# Set T contains numbers which represent the total number of time intervals
+# over the course of the simulated time frame. An hourly resolution over
+# a week long period would yield 24 x 7 = 168 points. The above value of 1 
+# corresponds to a steady state with no temporal variation. 
+
+
+# ---- MAJOR TIME set: TM ---------------------------------------------------
+
+set TM := 1; 
+# Set TM characterises the number of investment terms over the time horizon.
+
+
+# ---- RESOURCE set: R ------------------------------------------------------
+
+set R := 
+    NAT_GAS_HIGH_P
+    ELECTRICITY
+    GENERATED_CO2
+    EMITTED_CO2
+    CLIQ_CO2_ONSHORE
+    CLIQ_CO2_OFFSHORE
+    STEEL
+    CEMENT
+    CHEMICALS
+    ;
+# contains all resources in the model instance
+
+# ---- R subsets: by type of resource ----------------
+
+set R_BALANCED :=
+    NAT_GAS_HIGH_P
+    ELECTRICITY
+    GENERATED_CO2
+    CLIQ_CO2_ONSHORE
+    CLIQ_CO2_OFFSHORE
+    STEEL
+    CEMENT
+    CHEMICALS
+    ;
+# resources which have to be balanced in each grid cell
+
+set R_POLLUTANT :=
+    EMITTED_CO2;
+# resources which are pollutants
+
+# ---- R subsets: by handling of resource ------------
+
+set IMP_R := 
+    NAT_GAS_HIGH_P
+    ELECTRICITY
+    ;
+# importable resources in the system
+
+set STORAGE_R := 
+    CLIQ_CO2_OFFSHORE 
+    CLIQ_CO2_ONSHORE
+    ;
+# storable resources in the system
+
+set STORABLE_CO2 := 
+    CLIQ_CO2_OFFSHORE 
+    CLIQ_CO2_ONSHORE
+    ;
+# storable CO2 (resources) in the system
+
+
+# ---- TECHNOLOGY set: J ----------------------------------------------------
+
+set J := 
+    INJ_WELL
+    PRES_CYL_VESSEL
+    SALT_CAVERN
+    SMALL_CO2_COMPRESSOR
+    NET
+    LARGE_CO2_COMPRESSOR
+    INCUMBENT_CEMENT
+    CCS_CEMENT
+    CCS_MINERAL_CEMENT
+    INCUMBENT_CCGT
+    CCS_CCGT
+    INCUMBENT_REFINERY
+    CCS_REFINERY
+    INCUMBENT_STEELBFBOF
+    CCS_STEELBFBOF
+    ;
+# Set J contains all the technologies.
+
+# ---- J subsets: by type of tech --------------------
+
+set PROCESS_TECH := 
+    SMALL_CO2_COMPRESSOR
+    LARGE_CO2_COMPRESSOR
+    INCUMBENT_CEMENT
+    CCS_CEMENT
+    CCS_MINERAL_CEMENT
+    INCUMBENT_CCGT
+    CCS_CCGT
+    INCUMBENT_REFINERY
+    CCS_REFINERY
+    INCUMBENT_STEELBFBOF
+    CCS_STEELBFBOF
+    ;
+# contains all (integer decision) production/conversion technologies 
+
+set END_USE_TECH :=
+    NET
+    ;
+# contains all (non-integer decision) production/conversion technologies   
+
+set STRG_TECH := 
+    INJ_WELL
+    SALT_CAVERN
+    PRES_CYL_VESSEL;
+# contains all the storage technologies (integer decision)
+
+# ---- PROCESS_TECH subsets: by industry type --------
+
+set CEMENT_INTERVENTIONS :=
+    CCS_CEMENT
+    CCS_MINERAL_CEMENT
+    INCUMBENT_CEMENT
+    ;
+# process interventions for cement sites  
+
+set CCGT_INTERVENTIONS :=
+    CCS_CCGT
+    INCUMBENT_CCGT
+    ;
+# process interventions for power sites  
+
+set REFINERY_INTERVENTIONS :=
+    CCS_REFINERY
+    INCUMBENT_REFINERY
+    ;
+# process interventions for refinery sites  
+
+set STEELBFBOF_INTERVENTIONS :=
+    CCS_STEELBFBOF
+    INCUMBENT_STEELBFBOF
+    ;
+# process interventions for BF-BOF steel sites
+
+set TERMINAL_INTERVENTIONS :=
+    SMALL_CO2_COMPRESSOR
+    LARGE_CO2_COMPRESSOR
+    ;
+# process interventions for terminal sites 
+ 
+# ---- END_USE_TECH subsets: by type of tech ---------
+
+set INCUMBENT_USE_TECH :=
+    ;
+# contains all the incumbent end-use technologies.    
+
+set POSTCOMB :=
+    ;
+# contains all the post-combustion capture options.    
+
+set NO_POSTCOMB:=
+    NET
+    ;
+# contains all the non-post-combustion capture options.    
+
+# ---- STRG_TECH subsets: by recource ----------------
+
+set CO2_STORAGE_TECH := 
+    INJ_WELL;
+# contains all the CO2 storage technologies
+
+# ---- STRG_TECH subsets: by location ----------------
+
+set STORAGE_TECH_ONSHORE :=
+    PRES_CYL_VESSEL
+    SALT_CAVERN;
+# contains all the onshore storage technologies
+
+set STORAGE_TECH_OFFSHORE :=
+    INJ_WELL;
+# contains all the offshore storage technologies
+
+
+# ---- METRICS set: M -------------------------------------------------------
+
+set M := 
+    CAPEX 
+    OPEX 
+    CLIMATE_CHANGE_TOT
+    FRESHWATER_AND_TERRESTRIAL_ACIDIFICATION
+    FRESHWATER_ECOTOXICITY
+    MARINE_EUTROPHICATION
+    TERRESTRIAL_EUTROPHICATION
+    CARCINOGENIC_EFFECTS
+    IONISING_RADIATION
+    NON_CARCINOGENIC_EFFECTS
+    OZONE_LAYER_DEPLETION
+    PHOTOCHEMICAL_OZONE_CREATION
+    RESPIRATORY_EFFECTS
+    FOSSIL_RESOURCE_USE
+    LAND_USE
+    MINERALS_AND_METALS
+    FOSSIL_ENERGY_DEMAND
+    NUCLEAR_ENERGY_DEMAND
+    PRIMARY_FOREST_ENERGY_DEMAND;
+# Set M contains performance metrics to compute.
+
+set LCA_METRICS := 
+    CLIMATE_CHANGE_TOT
+    FRESHWATER_AND_TERRESTRIAL_ACIDIFICATION
+    FRESHWATER_ECOTOXICITY
+    MARINE_EUTROPHICATION
+    TERRESTRIAL_EUTROPHICATION
+    CARCINOGENIC_EFFECTS
+    IONISING_RADIATION
+    NON_CARCINOGENIC_EFFECTS
+    OZONE_LAYER_DEPLETION
+    PHOTOCHEMICAL_OZONE_CREATION
+    RESPIRATORY_EFFECTS
+    FOSSIL_RESOURCE_USE
+    LAND_USE
+    MINERALS_AND_METALS
+    FOSSIL_ENERGY_DEMAND
+    NUCLEAR_ENERGY_DEMAND
+    PRIMARY_FOREST_ENERGY_DEMAND;
+# Set LCA_METRICS contain LCA metrics to evaluate.
+
+
+# ---- DISTRIBUTION set: D --------------------------------------------------
+
+set D := 
+    48INCH_PIPE_NAT_GAS
+    36INCH_PIPE_NAT_GAS
+    20INCH_PIPE_NAT_GAS
+    14INCH_PIPE_NAT_GAS
+    12INCH_PIPE_NAT_GAS
+    6INCH_PIPE_NAT_GAS
+    
+    40INCH_CO2_ONSHORE
+#    SHIP_CO2
+    
+    40INCH_CO2_OFFSHORE;
+# contains the distribution technologies in the system.
+
+# ---- D subsets: investment decision ----------------
+
+set PIPES := 
+    48INCH_PIPE_NAT_GAS
+    36INCH_PIPE_NAT_GAS
+    20INCH_PIPE_NAT_GAS
+    14INCH_PIPE_NAT_GAS
+    12INCH_PIPE_NAT_GAS
+    6INCH_PIPE_NAT_GAS
+    40INCH_CO2_ONSHORE
+    40INCH_CO2_OFFSHORE;
+# contains all pipe distribution technologies (integer decision)
+
+#set VEHICLES :=
+#    SHIP_CO2;
+# contains vehicle-based distribution technologies (non-integer decision)
+
+# ---- PIPES subsets: by resource --------------------
+
+set PIPES_CO2 := 
+    40INCH_CO2_ONSHORE
+    40INCH_CO2_OFFSHORE;
+#  contains all pipelines for CO2 transport
+
+set PIPES_NATGAS := 
+    48INCH_PIPE_NAT_GAS
+    36INCH_PIPE_NAT_GAS
+    20INCH_PIPE_NAT_GAS
+    14INCH_PIPE_NAT_GAS
+    12INCH_PIPE_NAT_GAS
+    6INCH_PIPE_NAT_GAS;
+# contains all pipelines for natural gas transport
+
+# ---- PIPES subsets: by location --------------------
+
+set PIPES_ONSHORE := 
+    40INCH_CO2_ONSHORE
+    48INCH_PIPE_NAT_GAS
+    36INCH_PIPE_NAT_GAS
+    20INCH_PIPE_NAT_GAS
+    14INCH_PIPE_NAT_GAS
+    12INCH_PIPE_NAT_GAS
+    6INCH_PIPE_NAT_GAS;
+# contains all onshore pipelines
+
+set PIPES_OFFSHORE := 
+    40INCH_CO2_OFFSHORE;
+# contains all offshore pipelines
+
+# ---- VEHICLES subsets: by resource -----------------
+
+#set VEHICLES_CO2 := 
+#    SHIP_CO2;
+## contains all vehicles for CO2 transport 
+
+# ---- VEHICLES subsets: by location -----------------
+
+#set VEHICLES_ONSHORE := 
+#    ;
+## contains all onshore vehicles
+
+#set VEHICLES_OFFSHORE := 
+#    SHIP_CO2;
+## contains all offshore vehicles
+
+
+# ---- DISTRIBUTION MODE set: DIST_MODE -------------------------------------
+
+set DIST_MODE := MODE_1;
+# contains all the distribution modes, e.g., pressure levels in the system
+
+
+# ---- SCENARIOO set: S -----------------------------------------------------
+
+set S := LL;
+# contains all the scenarios in the system
+
+
+################### Parameters ####################
+
+param PROBABILITY := 
+    LL  1;
+# PROBABILITY denotes the different probabilities of stochastic scenarios.
+
+
+param OPER_TIME_INTERVAL :=
+    1  17520;
+# OPER_TIME_INTERVAL denotes the total number of time units in a time interval. 
+# in this case, 17520 half hours represent a yearly time horizon.
+
+
+param OBJ_WEIGHT :=
+   CAPEX    1   1
+   OPEX     1   1
+   ;
+# OBJ_WEIGHT denotes the objective weighting of the performance metrics.
+
+
+
+
+param NETWORK_COEFF :=
+    48INCH_PIPE_NAT_GAS         CAPEX   2200
+    36INCH_PIPE_NAT_GAS         CAPEX   1620
+    20INCH_PIPE_NAT_GAS         CAPEX   800
+    14INCH_PIPE_NAT_GAS         CAPEX   493
+    12INCH_PIPE_NAT_GAS         CAPEX   390
+    6INCH_PIPE_NAT_GAS          CAPEX   200
+    48INCH_PIPE_NAT_GAS         OPEX    140
+    36INCH_PIPE_NAT_GAS         OPEX    100
+    20INCH_PIPE_NAT_GAS         OPEX    50
+    14INCH_PIPE_NAT_GAS         OPEX    30.8
+    12INCH_PIPE_NAT_GAS         OPEX    24.4
+    6INCH_PIPE_NAT_GAS          OPEX    10
+#    SHIP_CO2                    CAPEX   500     # random value
+    40INCH_CO2_ONSHORE	        CAPEX   1925.4  # 1/1.3 of offshore
+    40INCH_CO2_OFFSHORE	        CAPEX   2503    # from Zhenggang
+    ;
+# NETWORK_COEFF determines the total CAPEX contribution and fixed, yearly OPEX
+# contribution by the installed disttribution technology in k£ and k£/yr.
+
+
+param FLOW_COEFF :=
+#    SHIP_CO2                    OPEX    30      # random value
+    40INCH_CO2_ONSHORE	        OPEX    2.6e-6     # 1/2.6 of offshore
+    40INCH_CO2_OFFSHORE	        OPEX    6.7e-6     # from Zhenggang
+    ;
+# FLOW_COEFF determines the variable, yearly OPEX based on the flow_rate
+# in [k£/yr/t].
+
+
+
+param IMPORT_COEFF :=
+    ELECTRICITY          OPEX    0.0000125
+    NAT_GAS_HIGH_P       OPEX    0.00000361;
+# IMPORT_COEFF describes the import price of each resource.
+
+
+
+param FLOW_CONSUMPTION_COEFF :=
+#    SHIP_CO2                    MODE_1          CLIQ_CO2_OFFSHORE        1
+    40INCH_CO2_OFFSHORE	        MODE_1          CLIQ_CO2_OFFSHORE        1
+    40INCH_CO2_ONSHORE	        MODE_1          CLIQ_CO2_ONSHORE         1
+    48INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           1
+    36INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           1
+    20INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           1
+    14INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           1
+    12INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           1
+    6INCH_PIPE_NAT_GAS          MODE_1          NAT_GAS_HIGH_P           1;
+# FLOW_CONSUMPTION_COEFF describes the "consumption" of resources within a 
+# distribution tech through a given mode. Useful to represent pressure drops.
+
+
+param FLOW_PRODUCTION_COEFF :=
+#    SHIP_CO2                    MODE_1          CLIQ_CO2_OFFSHORE        1
+    40INCH_CO2_OFFSHORE	        MODE_1          CLIQ_CO2_OFFSHORE        1
+    40INCH_CO2_ONSHORE	        MODE_1          CLIQ_CO2_ONSHORE         1
+    48INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           0.999
+    36INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           0.999
+    20INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           0.999
+    14INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           0.999
+    12INCH_PIPE_NAT_GAS         MODE_1          NAT_GAS_HIGH_P           0.999
+    6INCH_PIPE_NAT_GAS          MODE_1          NAT_GAS_HIGH_P           0.999;
+# FLOW_PRODUCTION_COEFF describes the "production" of resources within a 
+# distribution tech through a given mode. Useful to represent pressure drops.
+
+
+param FLOW_RSRC_MAX :=
+    48INCH_PIPE_NAT_GAS    79740000
+    36INCH_PIPE_NAT_GAS    38270000
+    20INCH_PIPE_NAT_GAS     3760000
+    14INCH_PIPE_NAT_GAS     1500000
+    12INCH_PIPE_NAT_GAS     1000000
+    6INCH_PIPE_NAT_GAS       175000
+    40INCH_CO2_ONSHORE	       2397.3
+#    SHIP_CO2                    150         # random value
+    40INCH_CO2_OFFSHORE	       2397.3;
+# FLOW_RSRC_MAX represents the maximum flow capacity per unit of dist tech.
+
+
+param MAX_INJECTION_RATE :=
+    INJ_WELL                   57.1     # based on 1000kt/yr divided by 17,520 hhours/yr
+    SALT_CAVERN               180       # TODO
+    ;
+
+
+param MAX_RETRIEVAL_RATE :=
+    SALT_CAVERN               360       # TODO
+    ;
+
+
+#load ./cases/alphatest/LCA_Scores_Chain.csv using=csv format=array : LCA_SCORE; 
+# LCA_SCORE represents the LCA scores attached to different techs.
+
+
+#load ./cases/alphatest/LCA_Scores_Network.csv using=csv format=array : NETWORK_LCA; 
+# NETWORK_LCA represents LCA scores for installing network techs.
+
+
+#load ./cases/alphatest/LCA_Scores_Strg.csv using=csv format=array : STRG_LCA; 
+# STRG_LCA represents LCA scores for installing storage techs.

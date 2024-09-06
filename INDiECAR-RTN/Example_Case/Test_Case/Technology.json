@@ -1,0 +1,19 @@
+{
+    "instantiate": {
+        "install_CC": 0,
+        "CCS_network_only": 0,
+        "obj": "TLC"
+    },
+    "stateGates": {
+        "backcasting": 0,
+        "targets": [
+            80
+        ]
+    },
+    "solver": {
+        "name": "glpk",
+        "mipgap": 0.0002,
+        "tlimit": 14400,
+        "integralityTolerance": 0
+    }
+}

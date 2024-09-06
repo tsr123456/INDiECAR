@@ -1,0 +1,394 @@
+Runname: SP_PT_AG Cementos Balboa SA
+SP_PT_AG Cementos Balboa SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_Cementos Portland Valderrivas SA
+SP_PT_Cementos Portland Valderrivas SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_CEMEX SAB de CV
+Error: Moving to next case.
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_Corporacion Masaveu SA
+SP_PT_Corporacion Masaveu SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_CRH PLC
+SP_PT_CRH PLC
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_HeidelbergCement AG
+SP_PT_HeidelbergCement AG
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_InterCement Participacoes SA
+SP_PT_InterCement Participacoes SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_LafargeHolcim Ltd
+SP_PT_LafargeHolcim Ltd
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_Secil Companhia Geral de Cal e Cimento SA
+SP_PT_Secil Companhia Geral de Cal e Cimento SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_Unknown
+SP_PT_Unknown
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: SP_PT_Votorantim SA
+SP_PT_Votorantim SA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+sending incremental file list
+./
+"solver_log_SP_PT_AG Cementos Balboa SA_Technology73.log"
+"solver_log_SP_PT_CRH PLC_Technology16.log"
+"solver_log_SP_PT_Cementos Portland Valderrivas SA_Technology84.log"
+"solver_log_SP_PT_Corporacion Masaveu SA_Technology29.log"
+"solver_log_SP_PT_HeidelbergCement AG_Technology19.log"
+"solver_log_SP_PT_InterCement Participacoes SA_Technology62.log"
+"solver_log_SP_PT_LafargeHolcim Ltd_Technology52.log"
+"solver_log_SP_PT_Secil Companhia Geral de Cal e Cimento SA_Technology10.log"
+"solver_log_SP_PT_Votorantim SA_Technology44.log"
+parse_table_datacmds.py
+solver_log_SP_PT_AG Cementos Balboa SA_Technology73.log
+solver_log_SP_PT_CRH PLC_Technology16.log
+solver_log_SP_PT_Cementos Portland Valderrivas SA_Technology84.log
+solver_log_SP_PT_Corporacion Masaveu SA_Technology29.log
+solver_log_SP_PT_HeidelbergCement AG_Technology19.log
+solver_log_SP_PT_InterCement Participacoes SA_Technology62.log
+solver_log_SP_PT_LafargeHolcim Ltd_Technology52.log
+solver_log_SP_PT_Secil Companhia Geral de Cal e Cimento SA_Technology10.log
+solver_log_SP_PT_Unknown_Technology4.log
+solver_log_SP_PT_Votorantim SA_Technology44.log
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/INV_COEFF.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/MIN_CAP.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/existing_pipelines.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/existing_storage.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/existing_tech.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/grid_cells.csv
+Casestudies/SP_PT_AG Cementos Balboa SA/input/initial_pipelines.csv
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/
+Casestudies/SP_PT_CEMEX SAB de CV/Technology/snapshot100/
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_Demand.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/INV_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/MIN_CAP.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_pipelines.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_storage.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/existing_tech.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/grid_cells_all_cment_plants.csv
+Casestudies/SP_PT_CEMEX SAB de CV/input/initial_pipelines.csv
+Casestudies/SP_PT_CRH PLC/Technology/
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_CRH PLC/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_CRH PLC/input/Gridded_Demand.csv
+Casestudies/SP_PT_CRH PLC/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_CRH PLC/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_CRH PLC/input/INV_COEFF.csv
+Casestudies/SP_PT_CRH PLC/input/MIN_CAP.csv
+Casestudies/SP_PT_CRH PLC/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_CRH PLC/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_CRH PLC/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_CRH PLC/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_CRH PLC/input/existing_pipelines.csv
+Casestudies/SP_PT_CRH PLC/input/existing_storage.csv
+Casestudies/SP_PT_CRH PLC/input/existing_tech.csv
+Casestudies/SP_PT_CRH PLC/input/grid_cells.csv
+Casestudies/SP_PT_CRH PLC/input/initial_pipelines.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/INV_COEFF.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/MIN_CAP.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/existing_pipelines.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/existing_storage.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/existing_tech.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/grid_cells.csv
+Casestudies/SP_PT_Cementos Portland Valderrivas SA/input/initial_pipelines.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/INV_COEFF.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/MIN_CAP.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/existing_pipelines.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/existing_storage.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/existing_tech.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/grid_cells.csv
+Casestudies/SP_PT_Corporacion Masaveu SA/input/initial_pipelines.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_HeidelbergCement AG/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/Gridded_Demand.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/INV_COEFF.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/MIN_CAP.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/existing_pipelines.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/existing_storage.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/existing_tech.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/grid_cells.csv
+Casestudies/SP_PT_HeidelbergCement AG/input/initial_pipelines.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_InterCement Participacoes SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/INV_COEFF.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/MIN_CAP.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/existing_pipelines.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/existing_storage.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/existing_tech.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/grid_cells.csv
+Casestudies/SP_PT_InterCement Participacoes SA/input/initial_pipelines.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/Gridded_Demand.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/INV_COEFF.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/MIN_CAP.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/existing_pipelines.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/existing_storage.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/existing_tech.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/grid_cells.csv
+Casestudies/SP_PT_LafargeHolcim Ltd/input/initial_pipelines.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/INV_COEFF.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/MIN_CAP.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/existing_pipelines.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/existing_storage.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/existing_tech.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/grid_cells.csv
+Casestudies/SP_PT_Secil Companhia Geral de Cal e Cimento SA/input/initial_pipelines.csv
+Casestudies/SP_PT_Unknown/Technology/
+Casestudies/SP_PT_Unknown/Technology/snapshot100/
+Casestudies/SP_PT_Unknown/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_Unknown/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_Unknown/input/Gridded_Demand.csv
+Casestudies/SP_PT_Unknown/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_Unknown/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_Unknown/input/INV_COEFF.csv
+Casestudies/SP_PT_Unknown/input/MIN_CAP.csv
+Casestudies/SP_PT_Unknown/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_Unknown/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_Unknown/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_Unknown/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_Unknown/input/existing_pipelines.csv
+Casestudies/SP_PT_Unknown/input/existing_storage.csv
+Casestudies/SP_PT_Unknown/input/existing_tech.csv
+Casestudies/SP_PT_Unknown/input/grid_cells.csv
+Casestudies/SP_PT_Unknown/input/initial_pipelines.csv
+Casestudies/SP_PT_Votorantim SA/Technology/
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/emission_rate.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/flow_rate.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/import_rate.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_end_use.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_pipes.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_process.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_process_invest.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/num_strg.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/prod_rate.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/total_metrics.csv
+Casestudies/SP_PT_Votorantim SA/Technology/snapshot100/transport_rate.csv
+Casestudies/SP_PT_Votorantim SA/input/Gridded_Demand.csv
+Casestudies/SP_PT_Votorantim SA/input/Gridded_Linear_Distances.csv
+Casestudies/SP_PT_Votorantim SA/input/Gridded_ResourceRates.csv
+Casestudies/SP_PT_Votorantim SA/input/INV_COEFF.csv
+Casestudies/SP_PT_Votorantim SA/input/MIN_CAP.csv
+Casestudies/SP_PT_Votorantim SA/input/NAME_PLATE_CAP.csv
+Casestudies/SP_PT_Votorantim SA/input/PROCESS_COEFF.csv
+Casestudies/SP_PT_Votorantim SA/input/RESOURCE_CONV_RATE.csv
+Casestudies/SP_PT_Votorantim SA/input/TRANSPORT_COEFF.csv
+Casestudies/SP_PT_Votorantim SA/input/existing_pipelines.csv
+Casestudies/SP_PT_Votorantim SA/input/existing_storage.csv
+Casestudies/SP_PT_Votorantim SA/input/existing_tech.csv
+Casestudies/SP_PT_Votorantim SA/input/grid_cells.csv
+Casestudies/SP_PT_Votorantim SA/input/initial_pipelines.csv
+
+sent 365811 bytes  received 6572 bytes  148953.20 bytes/sec
+total size is 154075908  speedup is 413.76

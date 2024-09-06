@@ -1,0 +1,129 @@
+Country;VID;Country_code;Region;Sub_region;Latitude;Longitude;Capacity
+Germany;CEMENTID1;276;Europe;Western Europe;51.364109;10.481936;2.61
+Germany;CEMENTID2;276;Europe;Western Europe;51.62267;8.503183;
+Germany;CEMENTID3;276;Europe;Western Europe;49.602402;8.036802;
+Germany;CEMENTID4;276;Europe;Western Europe;52.17459;7.887637;1.41
+Germany;CEMENTID5;276;Europe;Western Europe;50.032201;8.258075;2.43
+Germany;CEMENTID6;276;Europe;Western Europe;51.215198;6.702557;
+Germany;CEMENTID7;276;Europe;Western Europe;50.417212;7.473855;
+Germany;CEMENTID8;276;Europe;Western Europe;51.599704;8.349549;
+Germany;CEMENTID9;276;Europe;Western Europe;51.599521;8.335833;
+Germany;CEMENTID10;276;Europe;Western Europe;51.270124;11.660638;2.3
+Germany;CEMENTID11;276;Europe;Western Europe;49.016926;8.614774;
+Germany;CEMENTID12;276;Europe;Western Europe;50.520752;6.560266;0.45
+Germany;CEMENTID13;276;Europe;Western Europe;52.489222;13.836808;1.79
+Germany;CEMENTID14;276;Europe;Western Europe;52.1576;14.650765;
+Germany;CEMENTID15;276;Europe;Western Europe;48.07753;7.704708;
+Germany;CEMENTID16;276;Europe;Western Europe;49.213555;12.029824;
+Germany;CEMENTID17;276;Europe;Western Europe;51.857225;8.03084;
+Germany;CEMENTID18;276;Europe;Western Europe;52.374756;9.876779;0.9
+Germany;CEMENTID19;276;Europe;Western Europe;49.357624;8.685598;
+Germany;CEMENTID20;276;Europe;Western Europe;51.698479;8.746013;
+Germany;CEMENTID21;276;Europe;Western Europe;48.368982;9.735574;1.9
+Germany;CEMENTID22;276;Europe;Western Europe;49.808084;9.618221;
+Germany;CEMENTID23;276;Europe;Western Europe;51.618256;8.5105;
+Germany;CEMENTID24;276;Europe;Western Europe;52.305;13.63851;
+Germany;CEMENTID25;276;Europe;Western Europe;49.974307;8.316073;
+Germany;CEMENTID26;276;Europe;Western Europe;51.595161;8.336089;1.21
+Germany;CEMENTID27;276;Europe;Western Europe;48.227348;8.7786;1.6
+Germany;CEMENTID28;276;Europe;Western Europe;53.875099;9.584787;1.29
+Germany;CEMENTID29;276;Europe;Western Europe;52.353363;9.888384;
+Germany;CEMENTID30;276;Europe;Western Europe;51.765425;8.055751;
+Germany;CEMENTID31;276;Europe;Western Europe;53.138469;8.711021;
+Germany;CEMENTID32;276;Europe;Western Europe;51.547365;7.506201;
+Germany;CEMENTID33;276;Europe;Western Europe;51.512061;6.728638;
+Germany;CEMENTID34;276;Europe;Western Europe;54.144146;12.104727;
+Germany;CEMENTID35;276;Europe;Western Europe;48.774206;10.698973;
+Germany;CEMENTID36;276;Europe;Western Europe;49.077417;9.162092;
+Germany;CEMENTID37;276;Europe;Western Europe;51.759234;8.073849;
+Germany;CEMENTID38;276;Europe;Western Europe;50.334928;6.765204;
+Germany;CEMENTID39;276;Europe;Western Europe;47.791873;12.181552;0.97
+Germany;CEMENTID40;276;Europe;Western Europe;51.813271;11.753223;2.26
+Germany;CEMENTID41;276;Europe;Western Europe;48.333264;9.732415;2.29
+Germany;CEMENTID42;276;Europe;Western Europe;48.652954;10.162965;1.28
+Germany;CEMENTID43;276;Europe;Western Europe;49.954669;9.768927;1.31
+Germany;CEMENTID44;276;Europe;Western Europe;49.500143;11.553871;
+Germany;CEMENTID45;276;Europe;Western Europe;48.884764;10.998115;
+Germany;CEMENTID46;276;Europe;Western Europe;51.602063;8.336864;
+Germany;CEMENTID47;276;Europe;Western Europe;51.35858;6.710362;
+Germany;CEMENTID48;276;Europe;Western Europe;52.487446;13.495733;
+Germany;CEMENTID49;276;Europe;Western Europe;50.584533;9.510138;
+Germany;CEMENTID50;276;Europe;Western Europe;53.899492;10.809747;
+Germany;CEMENTID51;276;Europe;Western Europe;51.014295;11.684831;
+Germany;CEMENTID52;276;Europe;Western Europe;49.425386;8.515097;
+United Kingdom;CEMENTID53;826;Europe;Northern Europe;53.337916;-1.751755;1.5
+United Kingdom;CEMENTID54;826;Europe;Northern Europe;51.397546;-3.392125;0.5
+United Kingdom;CEMENTID55;826;Europe;Northern Europe;53.265267;-1.851891;1
+United Kingdom;CEMENTID56;826;Europe;Northern Europe;55.979125;-2.47192;1
+United Kingdom;CEMENTID57;826;Europe;Northern Europe;52.907516;-0.905543;
+United Kingdom;CEMENTID58;826;Europe;Northern Europe;53.675822;-0.529654;0.7
+United Kingdom;CEMENTID59;826;Europe;Northern Europe;52.377293;-1.286254;1.8
+United Kingdom;CEMENTID60;826;Europe;Northern Europe;51.457535;0.351728;
+United Kingdom;CEMENTID61;826;Europe;Northern Europe;53.888913;-2.383373;1.3
+United Kingdom;CEMENTID62;826;Europe;Northern Europe;53.152678;-3.061635;0.91
+United Kingdom;CEMENTID63;826;Europe;Northern Europe;52.640356;-0.547016;2.16
+United Kingdom;CEMENTID64;826;Europe;Northern Europe;54.59506;-1.169809;
+United Kingdom;CEMENTID65;826;Europe;Northern Europe;51.471516;0.261598;
+United Kingdom;CEMENTID66;826;Europe;Northern Europe;51.584677;-3.787058;
+United Kingdom;CEMENTID67;826;Europe;Northern Europe;54.618105;-6.767677;0.48
+United Kingdom;CEMENTID68;826;Europe;Northern Europe;53.044003;-1.875169;0.96
+United Kingdom;CEMENTID69;826;Europe;Northern Europe;53.571377;-0.6155;
+United Kingdom;CEMENTID70;826;Europe;Northern Europe;54.143487;-7.572383;1.17
+Austria;CEMENTID71;40;Europe;Western Europe;47.873176;16.085765;0.27
+Austria;CEMENTID72;40;Europe;Western Europe;47.908647;14.116847;0.55
+Austria;CEMENTID73;40;Europe;Western Europe;47.983793;16.606415;
+Austria;CEMENTID74;40;Europe;Western Europe;46.737096;15.573051;1.15
+Austria;CEMENTID75;40;Europe;Western Europe;47.723208;13.051516;0.7
+Austria;CEMENTID76;40;Europe;Western Europe;47.921903;13.777083;0.58
+Austria;CEMENTID77;40;Europe;Western Europe;47.552199;10.638447;
+Austria;CEMENTID78;40;Europe;Western Europe;46.851283;14.532924;
+Belgium;CEMENTID79;56;Europe;Western Europe;50.600652;3.486634;1.8
+Belgium;CEMENTID80;56;Europe;Western Europe;50.576126;3.442482;0.9
+Belgium;CEMENTID81;56;Europe;Western Europe;50.765227;5.673726;1.5
+Belgium;CEMENTID82;56;Europe;Western Europe;50.472411;3.992566;2.57
+Switzerland;CEMENTID83;756;Europe;Western Europe;47.414148;8.158997;0.86
+Switzerland;CEMENTID84;756;Europe;Western Europe;47.033567;7.028609;
+Switzerland;CEMENTID85;756;Europe;Western Europe;46.91631;9.54928;1.19
+Switzerland;CEMENTID86;756;Europe;Western Europe;47.521397;8.238877;
+Switzerland;CEMENTID87;756;Europe;Western Europe;46.655283;6.545972;0.94
+Denmark;CEMENTID88;208;Europe;Northern Europe;57.061731;9.977316;2.95
+Estonia;CEMENTID89;233;Europe;Northern Europe;59.496786;26.5284;0.75
+Finland;CEMENTID90;246;Europe;Northern Europe;61.031247;28.174569;0.78
+Finland;CEMENTID91;246;Europe;Northern Europe;60.285141;22.288667;1.56
+France;CEMENTID92;250;Europe;Western Europe;50.586554;1.619138;1.14
+France;CEMENTID93;250;Europe;Western Europe;48.69024;6.965379;
+France;CEMENTID94;250;Europe;Western Europe;50.699073;2.11344;0.82
+France;CEMENTID95;250;Europe;Western Europe;47.135245;5.552513;0.91
+France;CEMENTID96;250;Europe;Western Europe;46.809772;-0.138968;2.08
+France;CEMENTID97;250;Europe;Western Europe;43.80483;4.621082;0.99
+France;CEMENTID98;250;Europe;Western Europe;45.226037;-0.365494;1.39
+France;CEMENTID99;250;Europe;Western Europe;44.642952;4.754983;
+France;CEMENTID100;250;Europe;Western Europe;48.980312;1.820137;2
+France;CEMENTID101;250;Europe;Western Europe;47.587909;0.328983;0.76
+France;CEMENTID102;250;Europe;Western Europe;48.768805;4.564675;1.78
+France;CEMENTID103;250;Europe;Western Europe;47.083275;3.002822;
+France;CEMENTID104;250;Europe;Western Europe;47.62921;7.235748;
+France;CEMENTID105;250;Europe;Western Europe;43.799009;7.326102;
+France;CEMENTID106;250;Europe;Western Europe;45.614734;0.10411;1.14
+France;CEMENTID107;250;Europe;Western Europe;49.467215;0.317085;2.59
+France;CEMENTID108;250;Europe;Western Europe;44.520718;4.688932;0.94
+France;CEMENTID109;250;Europe;Western Europe;45.865692;4.659723;
+France;CEMENTID110;250;Europe;Western Europe;43.186126;0.99038;
+France;CEMENTID111;250;Europe;Western Europe;43.024394;3.029105;0.67
+France;CEMENTID112;250;Europe;Western Europe;48.108869;-1.035972;1.16
+France;CEMENTID113;250;Europe;Western Europe;43.419334;5.386825;1.12
+France;CEMENTID114;250;Europe;Western Europe;46.250804;3.424963;1.12
+France;CEMENTID115;250;Europe;Western Europe;43.793674;7.374769;1.75
+France;CEMENTID116;250;Europe;Western Europe;45.804972;5.421124;1.26
+France;CEMENTID117;250;Europe;Western Europe;45.230667;5.668787;0.91
+France;CEMENTID118;250;Europe;Western Europe;48.563372;6.109185;1.47
+Ireland;CEMENTID119;372;Europe;Northern Europe;53.432118;-7.143371;0.7
+Ireland;CEMENTID120;372;Europe;Northern Europe;52.641364;-8.688373;0.8
+Ireland;CEMENTID121;372;Europe;Northern Europe;53.684307;-6.387712;2.8
+Ireland;CEMENTID122;372;Europe;Northern Europe;54.130891;-7.578912;1.3
+Lithuania;CEMENTID123;440;Europe;Northern Europe;56.314379;22.917322;1.3
+Luxembourg;CEMENTID124;442;Europe;Western Europe;49.465827;6.006684;1.41
+Latvia;CEMENTID125;428;Europe;Northern Europe;56.690803;22.592287;1.6
+Norway;CEMENTID126;578;Europe;Northern Europe;68.094529;16.375326;0.5
+Sweden;CEMENTID127;752;Europe;Northern Europe;58.384691;13.826921;0.6
+Sweden;CEMENTID128;752;Europe;Northern Europe;57.710068;18.804074;2.5

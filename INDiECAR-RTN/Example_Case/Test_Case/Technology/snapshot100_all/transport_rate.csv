@@ -1,0 +1,4 @@
+Resource;grid;Minor time;Major Time;Scenario;rate;;;;grid ;Emission rate;Cement demand;Initial emission;Emission after intervention
+OLIVINE;1;1;1;LL;12.19587779;31.27148153;;;1;0.875839391;63.09931507;54.26541096;1.627962329
+BIOMASS;1;1;1;LL;5.711444705;;;;2;5.873147439;21.03310502;18.08847032;5.426541095
+BIOMASS;2;1;1;LL;1.903814901;;;;;;;;

@@ -1,0 +1,23 @@
+Country;VID;Country_code;Region;Sub_region;Latitude;Longitude;Capacity
+United Kingdom;CID53;826;Europe;Northern Europe;53.337916;-1.751755;1.5
+United Kingdom;CID54;826;Europe;Northern Europe;51.397546;-3.392125;0.5
+United Kingdom;CID55;826;Europe;Northern Europe;53.265267;-1.851891;1
+United Kingdom;CID56;826;Europe;Northern Europe;55.979125;-2.47192;1
+United Kingdom;CID57;826;Europe;Northern Europe;52.907516;-0.905543;1.3
+United Kingdom;CID58;826;Europe;Northern Europe;53.675822;-0.529654;0.7
+United Kingdom;CID59;826;Europe;Northern Europe;52.377293;-1.286254;1.8
+United Kingdom;CID60;826;Europe;Northern Europe;51.457535;0.351728;1.3
+United Kingdom;CID61;826;Europe;Northern Europe;53.888913;-2.383373;1.3
+United Kingdom;CID62;826;Europe;Northern Europe;53.152678;-3.061635;0.91
+United Kingdom;CID63;826;Europe;Northern Europe;52.640356;-0.547016;2.16
+United Kingdom;CID64;826;Europe;Northern Europe;54.59506;-1.169809;1.3
+United Kingdom;CID65;826;Europe;Northern Europe;51.471516;0.261598;1.3
+United Kingdom;CID66;826;Europe;Northern Europe;51.584677;-3.787058;1.3
+United Kingdom;CID67;826;Europe;Northern Europe;54.618105;-6.767677;0.48
+United Kingdom;CID68;826;Europe;Northern Europe;53.044003;-1.875169;0.96
+United Kingdom;CID69;826;Europe;Northern Europe;53.571377;-0.6155;1.3
+United Kingdom;CID70;826;Europe;Northern Europe;54.143487;-7.572383;1.17
+Ireland;CID71;372;Europe;Northern Europe;53.432118;-7.143371;0.7
+Ireland;CID72;372;Europe;Northern Europe;52.641364;-8.688373;0.8
+Ireland;CID73;372;Europe;Northern Europe;53.684307;-6.387712;2.8
+Ireland;CID74;372;Europe;Northern Europe;54.130891;-7.578912;

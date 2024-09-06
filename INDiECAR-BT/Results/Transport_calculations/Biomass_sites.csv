@@ -1,0 +1,3 @@
+Country;VID;Latitude;Longitude;geometry;1_closest_port
+Canada (Halifax);BID1;44.645864;-63.543847;POINT (44.645864 -63.543847);PID297
+USA (Boston);BID2;42.340631;-71.023034;POINT (42.340631 -71.023034);PID1181

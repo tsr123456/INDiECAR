@@ -1,0 +1,4 @@
+process_tech;grid;Major Time;Scenario;number
+SMALL_CO2_COMPRESSOR;6;1;LL;1.0
+BIOMASS_CEMENT;2;1;LL;1.0
+CCS_BIOMASS_MINERAL_CEMENT;1;1;LL;1.0

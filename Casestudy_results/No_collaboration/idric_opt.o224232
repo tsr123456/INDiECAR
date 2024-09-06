@@ -1,0 +1,112 @@
+Runname: GER_thomas Beteiligungen GmbH
+GER_thomas Beteiligungen GmbH
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Phoenix Zementwerke Krogbeumker GmbH
+GER_Phoenix Zementwerke Krogbeumker GmbH
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_CRH PLC
+ERROR: Constructing component 'num_pipes' from data=None failed:
+        ValueError: Error retrieving immutable Param value (DISTANCE[(1,
+        32)]):
+    	The Param value is undefined and no default value is specified.
+Error: Moving to next case.
+Not all files could be changed, check for weird symbols
+sending incremental file list
+./
+"solver_log_GER_Phoenix Zementwerke Krogbeumker GmbH_Technology67.log"
+"solver_log_GER_thomas Beteiligungen GmbH_Technology18.log"
+parse_table_datacmds.py
+solver_log_GER_Phoenix Zementwerke Krogbeumker GmbH_Technology67.log
+solver_log_GER_thomas Beteiligungen GmbH_Technology18.log
+Casestudies/GER_CRH PLC/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/import_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_process.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_strg.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_CRH PLC/input/Gridded_Demand.csv
+Casestudies/GER_CRH PLC/input/Gridded_Linear_Distances.csv
+Casestudies/GER_CRH PLC/input/Gridded_ResourceRates.csv
+Casestudies/GER_CRH PLC/input/INV_COEFF.csv
+Casestudies/GER_CRH PLC/input/MIN_CAP.csv
+Casestudies/GER_CRH PLC/input/NAME_PLATE_CAP.csv
+Casestudies/GER_CRH PLC/input/PROCESS_COEFF.csv
+Casestudies/GER_CRH PLC/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_CRH PLC/input/TRANSPORT_COEFF.csv
+Casestudies/GER_CRH PLC/input/existing_pipelines.csv
+Casestudies/GER_CRH PLC/input/existing_storage.csv
+Casestudies/GER_CRH PLC/input/existing_tech.csv
+Casestudies/GER_CRH PLC/input/grid_cells.csv
+Casestudies/GER_CRH PLC/input/grid_cells_all_cement_plants.csv
+Casestudies/GER_CRH PLC/input/initial_pipelines.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_Demand.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/INV_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/MIN_CAP.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_pipelines.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_storage.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_tech.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/grid_cells.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/initial_pipelines.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_Demand.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/INV_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/MIN_CAP.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_pipelines.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_storage.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_tech.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/grid_cells.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/initial_pipelines.csv
+
+sent 196108 bytes  received 2165 bytes  132182.00 bytes/sec
+total size is 151860626  speedup is 765.92

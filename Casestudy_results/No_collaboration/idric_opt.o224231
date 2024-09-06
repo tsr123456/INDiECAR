@@ -1,0 +1,475 @@
+Runname: GER_Buzzi Unicem SpA
+GER_Buzzi Unicem SpA
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_CEMEX SAB de CV
+GER_CEMEX SAB de CV
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_CRH PLC
+GER_CRH PLC
+snapshot100: infeasible
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_HeidelbergCement AG
+GER_HeidelbergCement AG
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Hugo Miebach GmbH
+GER_Hugo Miebach GmbH
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_LafargeHolcim Ltd
+GER_LafargeHolcim Ltd
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Maerker Zement GmbH
+GER_Maerker Zement GmbH
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Phoenix Zementwerke Krogbeumker GmbH
+GER_Phoenix Zementwerke Krogbeumker GmbH
+snapshot100: infeasible
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Rohrdorfer Zementwerke
+GER_Rohrdorfer Zementwerke
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_SCHWENK Zement KG
+GER_SCHWENK Zement KG
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Solnhofer Portland-Zementwerke GmbH
+GER_Solnhofer Portland-Zementwerke GmbH
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_Spenner GmbH Co KG
+GER_Spenner GmbH Co KG
+snapshot100: optimal
+Result: run
+Not all files could be changed, check for weird symbols
+Runname: GER_thomas Beteiligungen GmbH
+GER_thomas Beteiligungen GmbH
+snapshot100: infeasible
+Result: run
+Not all files could be changed, check for weird symbols
+sending incremental file list
+./
+"solver_log_GER_Buzzi Unicem SpA_Technology86.log"
+"solver_log_GER_CEMEX SAB de CV_Technology12.log"
+"solver_log_GER_CRH PLC_Technology68.log"
+"solver_log_GER_HeidelbergCement AG_Technology32.log"
+"solver_log_GER_Hugo Miebach GmbH_Technology70.log"
+"solver_log_GER_LafargeHolcim Ltd_Technology39.log"
+"solver_log_GER_Maerker Zement GmbH_Technology99.log"
+"solver_log_GER_Phoenix Zementwerke Krogbeumker GmbH_Technology88.log"
+"solver_log_GER_Rohrdorfer Zementwerke_Technology38.log"
+"solver_log_GER_SCHWENK Zement KG_Technology75.log"
+"solver_log_GER_Solnhofer Portland-Zementwerke GmbH_Technology25.log"
+"solver_log_GER_Spenner GmbH Co KG_Technology55.log"
+"solver_log_GER_thomas Beteiligungen GmbH_Technology62.log"
+parse_table_datacmds.py
+solver_log_GER_Buzzi Unicem SpA_Technology86.log
+solver_log_GER_CEMEX SAB de CV_Technology12.log
+solver_log_GER_CRH PLC_Technology68.log
+solver_log_GER_HeidelbergCement AG_Technology32.log
+solver_log_GER_Hugo Miebach GmbH_Technology70.log
+solver_log_GER_LafargeHolcim Ltd_Technology39.log
+solver_log_GER_Maerker Zement GmbH_Technology99.log
+solver_log_GER_Phoenix Zementwerke Krogbeumker GmbH_Technology88.log
+solver_log_GER_Rohrdorfer Zementwerke_Technology38.log
+solver_log_GER_SCHWENK Zement KG_Technology75.log
+solver_log_GER_Solnhofer Portland-Zementwerke GmbH_Technology25.log
+solver_log_GER_Spenner GmbH Co KG_Technology55.log
+solver_log_GER_thomas Beteiligungen GmbH_Technology62.log
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_process.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Buzzi Unicem SpA/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Buzzi Unicem SpA/input/Gridded_Demand.csv
+Casestudies/GER_Buzzi Unicem SpA/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Buzzi Unicem SpA/input/Gridded_ResourceRates.csv
+Casestudies/GER_Buzzi Unicem SpA/input/INV_COEFF.csv
+Casestudies/GER_Buzzi Unicem SpA/input/MIN_CAP.csv
+Casestudies/GER_Buzzi Unicem SpA/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Buzzi Unicem SpA/input/PROCESS_COEFF.csv
+Casestudies/GER_Buzzi Unicem SpA/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Buzzi Unicem SpA/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Buzzi Unicem SpA/input/existing_pipelines.csv
+Casestudies/GER_Buzzi Unicem SpA/input/existing_storage.csv
+Casestudies/GER_Buzzi Unicem SpA/input/existing_tech.csv
+Casestudies/GER_Buzzi Unicem SpA/input/grid_cells.csv
+Casestudies/GER_Buzzi Unicem SpA/input/grid_cells_all_cement_plants.csv
+Casestudies/GER_Buzzi Unicem SpA/input/initial_pipelines.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/import_rate.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_process.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/num_strg.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_CEMEX SAB de CV/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_CEMEX SAB de CV/input/Gridded_Demand.csv
+Casestudies/GER_CEMEX SAB de CV/input/Gridded_Linear_Distances.csv
+Casestudies/GER_CEMEX SAB de CV/input/Gridded_ResourceRates.csv
+Casestudies/GER_CEMEX SAB de CV/input/INV_COEFF.csv
+Casestudies/GER_CEMEX SAB de CV/input/MIN_CAP.csv
+Casestudies/GER_CEMEX SAB de CV/input/NAME_PLATE_CAP.csv
+Casestudies/GER_CEMEX SAB de CV/input/PROCESS_COEFF.csv
+Casestudies/GER_CEMEX SAB de CV/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_CEMEX SAB de CV/input/TRANSPORT_COEFF.csv
+Casestudies/GER_CEMEX SAB de CV/input/existing_pipelines.csv
+Casestudies/GER_CEMEX SAB de CV/input/existing_storage.csv
+Casestudies/GER_CEMEX SAB de CV/input/existing_tech.csv
+Casestudies/GER_CEMEX SAB de CV/input/grid_cells.csv
+Casestudies/GER_CEMEX SAB de CV/input/initial_pipelines.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/
+Casestudies/GER_CRH PLC/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/import_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_process.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/num_strg.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_CRH PLC/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_CRH PLC/input/Gridded_Demand.csv
+Casestudies/GER_CRH PLC/input/Gridded_Linear_Distances.csv
+Casestudies/GER_CRH PLC/input/Gridded_ResourceRates.csv
+Casestudies/GER_CRH PLC/input/INV_COEFF.csv
+Casestudies/GER_CRH PLC/input/MIN_CAP.csv
+Casestudies/GER_CRH PLC/input/NAME_PLATE_CAP.csv
+Casestudies/GER_CRH PLC/input/PROCESS_COEFF.csv
+Casestudies/GER_CRH PLC/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_CRH PLC/input/TRANSPORT_COEFF.csv
+Casestudies/GER_CRH PLC/input/existing_pipelines.csv
+Casestudies/GER_CRH PLC/input/existing_storage.csv
+Casestudies/GER_CRH PLC/input/existing_tech.csv
+Casestudies/GER_CRH PLC/input/grid_cells.csv
+Casestudies/GER_CRH PLC/input/grid_cells_all_cement_plants.csv
+Casestudies/GER_CRH PLC/input/initial_pipelines.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/import_rate.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_process.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/num_strg.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_HeidelbergCement AG/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_HeidelbergCement AG/input/Gridded_Demand.csv
+Casestudies/GER_HeidelbergCement AG/input/Gridded_Linear_Distances.csv
+Casestudies/GER_HeidelbergCement AG/input/Gridded_ResourceRates.csv
+Casestudies/GER_HeidelbergCement AG/input/INV_COEFF.csv
+Casestudies/GER_HeidelbergCement AG/input/MIN_CAP.csv
+Casestudies/GER_HeidelbergCement AG/input/NAME_PLATE_CAP.csv
+Casestudies/GER_HeidelbergCement AG/input/PROCESS_COEFF.csv
+Casestudies/GER_HeidelbergCement AG/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_HeidelbergCement AG/input/TRANSPORT_COEFF.csv
+Casestudies/GER_HeidelbergCement AG/input/existing_pipelines.csv
+Casestudies/GER_HeidelbergCement AG/input/existing_storage.csv
+Casestudies/GER_HeidelbergCement AG/input/existing_tech.csv
+Casestudies/GER_HeidelbergCement AG/input/grid_cells.csv
+Casestudies/GER_HeidelbergCement AG/input/initial_pipelines.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Hugo Miebach GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Hugo Miebach GmbH/input/Gridded_Demand.csv
+Casestudies/GER_Hugo Miebach GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Hugo Miebach GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_Hugo Miebach GmbH/input/INV_COEFF.csv
+Casestudies/GER_Hugo Miebach GmbH/input/MIN_CAP.csv
+Casestudies/GER_Hugo Miebach GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Hugo Miebach GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_Hugo Miebach GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Hugo Miebach GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Hugo Miebach GmbH/input/existing_pipelines.csv
+Casestudies/GER_Hugo Miebach GmbH/input/existing_storage.csv
+Casestudies/GER_Hugo Miebach GmbH/input/existing_tech.csv
+Casestudies/GER_Hugo Miebach GmbH/input/grid_cells.csv
+Casestudies/GER_Hugo Miebach GmbH/input/initial_pipelines.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/import_rate.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_process.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/num_strg.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_LafargeHolcim Ltd/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_LafargeHolcim Ltd/input/Gridded_Demand.csv
+Casestudies/GER_LafargeHolcim Ltd/input/Gridded_Linear_Distances.csv
+Casestudies/GER_LafargeHolcim Ltd/input/Gridded_ResourceRates.csv
+Casestudies/GER_LafargeHolcim Ltd/input/INV_COEFF.csv
+Casestudies/GER_LafargeHolcim Ltd/input/MIN_CAP.csv
+Casestudies/GER_LafargeHolcim Ltd/input/NAME_PLATE_CAP.csv
+Casestudies/GER_LafargeHolcim Ltd/input/PROCESS_COEFF.csv
+Casestudies/GER_LafargeHolcim Ltd/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_LafargeHolcim Ltd/input/TRANSPORT_COEFF.csv
+Casestudies/GER_LafargeHolcim Ltd/input/existing_pipelines.csv
+Casestudies/GER_LafargeHolcim Ltd/input/existing_storage.csv
+Casestudies/GER_LafargeHolcim Ltd/input/existing_tech.csv
+Casestudies/GER_LafargeHolcim Ltd/input/grid_cells.csv
+Casestudies/GER_LafargeHolcim Ltd/input/initial_pipelines.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Maerker Zement GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Maerker Zement GmbH/input/Gridded_Demand.csv
+Casestudies/GER_Maerker Zement GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Maerker Zement GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_Maerker Zement GmbH/input/INV_COEFF.csv
+Casestudies/GER_Maerker Zement GmbH/input/MIN_CAP.csv
+Casestudies/GER_Maerker Zement GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Maerker Zement GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_Maerker Zement GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Maerker Zement GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Maerker Zement GmbH/input/existing_pipelines.csv
+Casestudies/GER_Maerker Zement GmbH/input/existing_storage.csv
+Casestudies/GER_Maerker Zement GmbH/input/existing_tech.csv
+Casestudies/GER_Maerker Zement GmbH/input/grid_cells.csv
+Casestudies/GER_Maerker Zement GmbH/input/initial_pipelines.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_Demand.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/INV_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/MIN_CAP.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_pipelines.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_storage.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/existing_tech.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/grid_cells.csv
+Casestudies/GER_Phoenix Zementwerke Krogbeumker GmbH/input/initial_pipelines.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_process.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Rohrdorfer Zementwerke/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/Gridded_Demand.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/Gridded_ResourceRates.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/INV_COEFF.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/MIN_CAP.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/PROCESS_COEFF.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/existing_pipelines.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/existing_storage.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/existing_tech.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/grid_cells.csv
+Casestudies/GER_Rohrdorfer Zementwerke/input/initial_pipelines.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/import_rate.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_process.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/num_strg.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_SCHWENK Zement KG/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_SCHWENK Zement KG/input/Gridded_Demand.csv
+Casestudies/GER_SCHWENK Zement KG/input/Gridded_Linear_Distances.csv
+Casestudies/GER_SCHWENK Zement KG/input/Gridded_ResourceRates.csv
+Casestudies/GER_SCHWENK Zement KG/input/INV_COEFF.csv
+Casestudies/GER_SCHWENK Zement KG/input/MIN_CAP.csv
+Casestudies/GER_SCHWENK Zement KG/input/NAME_PLATE_CAP.csv
+Casestudies/GER_SCHWENK Zement KG/input/PROCESS_COEFF.csv
+Casestudies/GER_SCHWENK Zement KG/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_SCHWENK Zement KG/input/TRANSPORT_COEFF.csv
+Casestudies/GER_SCHWENK Zement KG/input/existing_pipelines.csv
+Casestudies/GER_SCHWENK Zement KG/input/existing_storage.csv
+Casestudies/GER_SCHWENK Zement KG/input/existing_tech.csv
+Casestudies/GER_SCHWENK Zement KG/input/grid_cells.csv
+Casestudies/GER_SCHWENK Zement KG/input/initial_pipelines.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/Gridded_Demand.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/INV_COEFF.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/MIN_CAP.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/existing_pipelines.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/existing_storage.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/existing_tech.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/grid_cells.csv
+Casestudies/GER_Solnhofer Portland-Zementwerke GmbH/input/initial_pipelines.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/import_rate.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_process.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/num_strg.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_Spenner GmbH Co KG/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_Spenner GmbH Co KG/input/Gridded_Demand.csv
+Casestudies/GER_Spenner GmbH Co KG/input/Gridded_Linear_Distances.csv
+Casestudies/GER_Spenner GmbH Co KG/input/Gridded_ResourceRates.csv
+Casestudies/GER_Spenner GmbH Co KG/input/INV_COEFF.csv
+Casestudies/GER_Spenner GmbH Co KG/input/MIN_CAP.csv
+Casestudies/GER_Spenner GmbH Co KG/input/NAME_PLATE_CAP.csv
+Casestudies/GER_Spenner GmbH Co KG/input/PROCESS_COEFF.csv
+Casestudies/GER_Spenner GmbH Co KG/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_Spenner GmbH Co KG/input/TRANSPORT_COEFF.csv
+Casestudies/GER_Spenner GmbH Co KG/input/existing_pipelines.csv
+Casestudies/GER_Spenner GmbH Co KG/input/existing_storage.csv
+Casestudies/GER_Spenner GmbH Co KG/input/existing_tech.csv
+Casestudies/GER_Spenner GmbH Co KG/input/grid_cells.csv
+Casestudies/GER_Spenner GmbH Co KG/input/initial_pipelines.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/emission_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/flow_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/import_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_end_use.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_pipes.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_process.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/num_strg.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/prod_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/total_metrics.csv
+Casestudies/GER_thomas Beteiligungen GmbH/Technology/snapshot100/transport_rate.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_Demand.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_Linear_Distances.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/Gridded_ResourceRates.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/INV_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/MIN_CAP.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/NAME_PLATE_CAP.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/PROCESS_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/TRANSPORT_COEFF.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_pipelines.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_storage.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/existing_tech.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/grid_cells.csv
+Casestudies/GER_thomas Beteiligungen GmbH/input/initial_pipelines.csv
+
+sent 492844 bytes  received 7958 bytes  143086.29 bytes/sec
+total size is 154010280  speedup is 307.53

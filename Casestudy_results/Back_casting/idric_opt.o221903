@@ -1,0 +1,79 @@
+Runname: GER
+GER
+snapshot100: maxTimeLimit
+GER
+backcast75: optimal
+GER
+backcast50: optimal
+Result: run
+sending incremental file list
+./
+parse_table_datacmds.py
+solver_log_GER_Technology39.log
+solver_log_GER_Technology5.log
+solver_log_GER_Technology9.log
+Casestudies/GER/Technology/
+Casestudies/GER/Technology/backcast50/Simulation_summary.csv
+Casestudies/GER/Technology/backcast50/emission_rate.csv
+Casestudies/GER/Technology/backcast50/flow_rate.csv
+Casestudies/GER/Technology/backcast50/import_rate.csv
+Casestudies/GER/Technology/backcast50/inventory_rsrc.csv
+Casestudies/GER/Technology/backcast50/num_end_use.csv
+Casestudies/GER/Technology/backcast50/num_pipes.csv
+Casestudies/GER/Technology/backcast50/num_pipes_invest.csv
+Casestudies/GER/Technology/backcast50/num_process.csv
+Casestudies/GER/Technology/backcast50/num_process_invest.csv
+Casestudies/GER/Technology/backcast50/num_strg.csv
+Casestudies/GER/Technology/backcast50/prod_rate.csv
+Casestudies/GER/Technology/backcast50/total_metrics.csv
+Casestudies/GER/Technology/backcast50/transport_rate.csv
+Casestudies/GER/Technology/backcast75/
+Casestudies/GER/Technology/backcast75/Simulation_summary.csv
+Casestudies/GER/Technology/backcast75/emission_rate.csv
+Casestudies/GER/Technology/backcast75/flow_rate.csv
+Casestudies/GER/Technology/backcast75/import_rate.csv
+Casestudies/GER/Technology/backcast75/inventory_rsrc.csv
+Casestudies/GER/Technology/backcast75/num_end_use.csv
+Casestudies/GER/Technology/backcast75/num_pipes.csv
+Casestudies/GER/Technology/backcast75/num_pipes_invest.csv
+Casestudies/GER/Technology/backcast75/num_process.csv
+Casestudies/GER/Technology/backcast75/num_process_invest.csv
+Casestudies/GER/Technology/backcast75/num_strg.csv
+Casestudies/GER/Technology/backcast75/prod_rate.csv
+Casestudies/GER/Technology/backcast75/total_metrics.csv
+Casestudies/GER/Technology/backcast75/transport_rate.csv
+Casestudies/GER/Technology/snapshot100/Simulation_summary.csv
+Casestudies/GER/Technology/snapshot100/emission_rate.csv
+Casestudies/GER/Technology/snapshot100/flow_rate.csv
+Casestudies/GER/Technology/snapshot100/import_rate.csv
+Casestudies/GER/Technology/snapshot100/inventory_rsrc.csv
+Casestudies/GER/Technology/snapshot100/num_end_use.csv
+Casestudies/GER/Technology/snapshot100/num_pipes.csv
+Casestudies/GER/Technology/snapshot100/num_pipes_invest.csv
+Casestudies/GER/Technology/snapshot100/num_process.csv
+Casestudies/GER/Technology/snapshot100/num_process_invest.csv
+Casestudies/GER/Technology/snapshot100/num_strg.csv
+Casestudies/GER/Technology/snapshot100/prod_rate.csv
+Casestudies/GER/Technology/snapshot100/total_metrics.csv
+Casestudies/GER/Technology/snapshot100/transport_rate.csv
+Casestudies/GER/input/Gridded_Demand.csv
+Casestudies/GER/input/Gridded_Linear_Distances.csv
+Casestudies/GER/input/Gridded_ResourceRates.csv
+Casestudies/GER/input/INV_COEFF.csv
+Casestudies/GER/input/MIN_CAP.csv
+Casestudies/GER/input/NAME_PLATE_CAP.csv
+Casestudies/GER/input/PROCESS_COEFF.csv
+Casestudies/GER/input/RESOURCE_CONV_RATE.csv
+Casestudies/GER/input/TRANSPORT_COEFF.csv
+Casestudies/GER/input/existing_pipelines - Kopie.csv
+Casestudies/GER/input/existing_pipelines.csv
+Casestudies/GER/input/existing_storage.csv
+Casestudies/GER/input/existing_tech.csv
+Casestudies/GER/input/grid_cells.csv
+Casestudies/GER/input/grid_cells_all.csv
+Casestudies/GER/input/grid_cells_backup.csv
+Casestudies/GER/input/grid_cells_short.csv
+Casestudies/GER/input/initial_pipelines.csv
+
+sent 213029 bytes  received 1758 bytes  85914.80 bytes/sec
+total size is 384215534  speedup is 1788.82
