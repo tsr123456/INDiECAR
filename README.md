@@ -49,7 +49,7 @@ CPLEX Solver (commercial solver for mixed-integer programming)
    1. Open an Anaconda command prompt (Start --> Anaconda3 --> ....)
    2. In the prompt, navigate to the local path of the the *INDiECAR-RTN* of step 1 by typing
       ``cd "<your path here>/INDiECAR-BT"``
-   3. Install the python environment *INDiECAR-RTN*, by typing the following into the command prompt: ``conda env create -f environment.yml``
+   3. Install the python environment *INDiECAR-RTN*, by typing the following into the command prompt: ``conda env create -f environment.yaml``
  
 
 At this point, you should be set up to start working on the IDRIC toolkit and run simulations. You can navigate to the folder *notebooks* in each model to run the different Jypiter Notebooks. 
