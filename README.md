@@ -2,7 +2,12 @@
 This repository contains the INDiECAR model suite, a collection of three interrelated models designed to support decarbonization strategies in the cement industry. The suite includes tools for transport cost calculation, resource technology network optimization, and cost allocation for decarbonization interventions.
 
 ## Acknowledgments
-The model is based on the work by Collis, Schomäcker, et al. (INTERNAT-BT), and uses the RTN formulation (INDiECAR-RTN) described by Sunny et al. We thank the authors and organizations for their contributions to the foundational methodologies and datasets used in this work.
+The model is based on the work by Collis, Schomäcker, et al. (INTERNAT-BT; Collis, J. and R. Schomäcker (2022). "Determining the Production and Transport Cost for H2 on a Global Scale." Frontiers in Energy Research 10), and uses the RTN formulation (INDiECAR-RTN) described by Sunny et al. (Sunny, N., et al. (2020). "What is needed to deliver carbon-neutral heat using hydrogen and CCS?" Energy & Environmental Science 13(11): 4204-4224) We thank the authors and organizations for their contributions to the foundational methodologies and datasets used in this work.
+
+The RTN formulation was Elegancy GitHub chain tool. The unmodified source code can be accessed here: https://github.com/act-elegancy/chain_tool
+The INTERNAT-BT was in parts based on the shapefile to network package. The unmodified source code can be accessed here: https://github.com/Garvit244/Shapefile_to_Network
+
+Both packages were licenesed with the MIT license, which allows "to use, copy, modify, merge, publish, distribute" the software.
 
 ## Model Structure
 The model suite consists of three primary components:
@@ -79,4 +84,4 @@ The results will be saved in the Results directory of each component, including:
 MIT License
 
 ## Contact
-For any questions or feedback, please contact [your-email@example.com].
+For any questions or feedback, please contact [tms4@hw.ac.uk].
