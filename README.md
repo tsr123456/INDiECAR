@@ -1,8 +1,8 @@
 # INDiECAR Model Suite
-This repository contains the INDiECAR model suite, a collection of three interrelated models designed to support decarbonization strategies in the cement industry. The suite includes tools for transport cost calculation, resource technology network optimization, and cost allocation for decarbonization interventions.
+This repository contains the INDiECAR model suite, a collection of three interrelated models designed to support decarbonization strategies in the cement industry whih was developed for the publication Strunge et al. (in press). "Finding least-cost net-zero CO2e strategies for the European cement industry using geospatial techno-economic modelling", RSC Sustainability. The suite includes tools for transport cost calculation, resource technology network optimization, and cost allocation for decarbonization interventions.
 
 ## Acknowledgments
-The model is based on the work by Collis, Schomäcker, et al. (INTERNAT-BT; Collis, J. and R. Schomäcker (2022). "Determining the Production and Transport Cost for H2 on a Global Scale." Frontiers in Energy Research 10), and uses the RTN formulation (INDiECAR-RTN) described by Sunny et al. (Sunny, N., et al. (2020). "What is needed to deliver carbon-neutral heat using hydrogen and CCS?" Energy & Environmental Science 13(11): 4204-4224) We thank the authors and organizations for their contributions to the foundational methodologies and datasets used in this work.
+The model is based on the work by Collis, Schomäcker, et al. (INTERNAT-BT; [Collis, J. and R. Schomäcker (2022). "Determining the Production and Transport Cost for H2 on a Global Scale." Frontiers in Energy Research 10)](https://doi.org/10.3389/fenrg.2022.909298), and uses the RTN formulation (INDiECAR-RTN) described by Sunny et al. ([Sunny, N., et al. (2020). "What is needed to deliver carbon-neutral heat using hydrogen and CCS?" Energy & Environmental Science 13(11): 4204-4224)](https://doi.org/10.1039/D0EE02016H) We thank the authors and organizations for their contributions to the foundational methodologies and datasets used in this work.
 
 The RTN formulation was Elegancy GitHub chain tool. The unmodified source code can be accessed here: https://github.com/act-elegancy/chain_tool
 The INTERNAT-BT was in parts based on the shapefile to network package. The unmodified source code can be accessed here: https://github.com/Garvit244/Shapefile_to_Network
@@ -26,7 +26,7 @@ Python 3.9
 Jupyter Notebook
 CPLEX Solver (commercial solver for mixed-integer programming)
 
-## Python Packages
+## Major Python Packages Used
 - numpy
 - pandas
 - networkx
@@ -35,20 +35,24 @@ CPLEX Solver (commercial solver for mixed-integer programming)
 - requests (for OpenStreetMap API integration)
 - matplotlib (for visualizations)
 
-## Installation
-Clone the repository:
+## Installation#
+1. Set up a local copy of the this github repository on your computer. Either use github desktop client or a git bash window and the clone command.
+2. Install CPLEX solver, which can be made available for free for academic use on the IBM website: https://www.ibm.com/academic/
+3. Install the RTN model as follows:
+   1. Open an Anaconda command prompt (Start --> Anaconda3 --> ....)
+   2. In the prompt, navigate to the local path of the the *INDiECAR-RTN* of step 1 by typing
+      ``cd "<your path here>/INDiECAR-RTN"``, Note: you should be on the top layer of the folder, i.e. you should see a README file, the LICENSE, and a setup.py file.
+   3. Install the python environment *INDiECAR-RTN*, by typing the following into the command prompt: ``conda env create -f environment.yml``
+   4. Install the *IDRIC_toolkit* as a package by typing the following into the command prompt:``python -m pip install -e .``
+      
+4. Similarly install the python environment *geosptial_environment* to run INDiECAR-BT and COSTALLO:
+   1. Open an Anaconda command prompt (Start --> Anaconda3 --> ....)
+   2. In the prompt, navigate to the local path of the the *INDiECAR-RTN* of step 1 by typing
+      ``cd "<your path here>/INDiECAR-BT"``
+   3. Install the python environment *INDiECAR-RTN*, by typing the following into the command prompt: ``conda env create -f environment.yml``
+ 
 
-bash
-Copy code
-git clone https://github.com/yourusername/yourrepository.git
-cd yourrepository
-Install the required Python environment: Use the provided environment file to create a new conda environment:
-
-bash
-Copy code
-conda env create -f environment.yml
-conda activate your_environment_name
-Usage
+At this point, you should be set up to start working on the IDRIC toolkit and run simulations. You can navigate to the folder *notebooks* in each model to run the different Jypiter Notebooks. 
 
 ## Running the Models
 The models are structured as three separate components, each with its own Jupyter notebooks for running simulations and analyses:
